@@ -1,0 +1,9 @@
+PlayerID,Date,Position,Metric,Value,Time,Modified_Z-Score
+11,2023-10-04,Forward,Concentric Impulse (Abs) / BM [N s] ,7.2,Pre,4.324453900709219
+14,2023-09-20,Forward,Average Intensity (L and R),19.66,Pre,4.071981481481483
+14,2023-09-20,Forward,Average Intensity (L and R),19.66,Post,4.071981481481483
+11,2023-10-04,Forward,RSI-modified (Imp-Mom) [m/s] ,1.12,Pre,7.959099999999994
+13,2023-10-04,Forward,Eccentric Braking Impulse [N s] ,98.6,Post,3.853178160919542
+13,2023-10-10,Forward,Eccentric Braking Impulse [N s] ,107.1,Post,4.512172413793105
+11,2023-10-04,Forward,Jump Height (Imp-Mom) in Inches [in] ,39.4,Pre,9.82240625000001
+7,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,26.2,Post,3.533095238095239

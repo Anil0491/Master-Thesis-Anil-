@@ -1,0 +1,144 @@
+Metric: Jump Height (Imp-Mom) in Inches [in] 
+          Mixed Linear Model Regression Results
+==========================================================
+Model:              MixedLM  Dependent Variable:  Change  
+No. Observations:   14       Method:              REML    
+No. Groups:         14       Scale:               0.9768  
+Min. group size:    1        Log-Likelihood:      -33.5472
+Max. group size:    1        Converged:           Yes     
+Mean group size:    1.0                                   
+----------------------------------------------------------
+                Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+----------------------------------------------------------
+Intercept        3.746    1.715  2.185 0.029  0.386  7.107
+Avg_Impact_Load -0.000    0.000 -2.999 0.003 -0.000 -0.000
+Group Var        0.977                                    
+==========================================================
+
+
+Metric: RSI-modified (Imp-Mom) [m/s] 
+          Mixed Linear Model Regression Results
+==========================================================
+Model:              MixedLM   Dependent Variable:   Change
+No. Observations:   14        Method:               REML  
+No. Groups:         14        Scale:                0.0019
+Min. group size:    1         Log-Likelihood:       3.8525
+Max. group size:    1         Converged:            Yes   
+Mean group size:    1.0                                   
+----------------------------------------------------------
+                Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+----------------------------------------------------------
+Intercept        0.106    0.076  1.394 0.163 -0.043  0.255
+Avg_Impact_Load -0.000    0.000 -2.120 0.034 -0.000 -0.000
+Group Var        0.002                                    
+==========================================================
+
+
+Metric: Eccentric Braking RFD / BM [N/s/kg] 
+           Mixed Linear Model Regression Results
+===========================================================
+Model:               MixedLM  Dependent Variable:  Change  
+No. Observations:    14       Method:              REML    
+No. Groups:          14       Scale:               31.2381 
+Min. group size:     1        Log-Likelihood:      -54.3381
+Max. group size:     1        Converged:           Yes     
+Mean group size:     1.0                                   
+-----------------------------------------------------------
+                Coef.  Std.Err.   z    P>|z|  [0.025 0.975]
+-----------------------------------------------------------
+Intercept        0.413    9.697  0.043 0.966 -18.593 19.420
+Avg_Impact_Load -0.000    0.000 -0.946 0.344  -0.000  0.000
+Group Var       31.238                                     
+===========================================================
+
+
+Metric: Eccentric Braking Impulse [N s] 
+           Mixed Linear Model Regression Results
+===========================================================
+Model:               MixedLM  Dependent Variable:  Change  
+No. Observations:    14       Method:              REML    
+No. Groups:          14       Scale:               11.4399 
+Min. group size:     1        Log-Likelihood:      -48.3109
+Max. group size:     1        Converged:           Yes     
+Mean group size:     1.0                                   
+-----------------------------------------------------------
+                Coef.  Std.Err.   z    P>|z|  [0.025 0.975]
+-----------------------------------------------------------
+Intercept       -0.545    5.868 -0.093 0.926 -12.047 10.957
+Avg_Impact_Load -0.000    0.000 -0.823 0.411  -0.000  0.000
+Group Var       11.440                                     
+===========================================================
+
+
+Metric: Force at Zero Velocity / BM [N/kg] 
+          Mixed Linear Model Regression Results
+==========================================================
+Model:              MixedLM  Dependent Variable:  Change  
+No. Observations:   14       Method:              REML    
+No. Groups:         14       Scale:               0.8464  
+Min. group size:    1        Log-Likelihood:      -32.6878
+Max. group size:    1        Converged:           Yes     
+Mean group size:    1.0                                   
+----------------------------------------------------------
+                Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+----------------------------------------------------------
+Intercept        0.865    1.596  0.542 0.588 -2.263  3.994
+Avg_Impact_Load -0.000    0.000 -1.503 0.133 -0.000  0.000
+Group Var        0.846                                    
+==========================================================
+
+
+Metric: Concentric Impulse (Abs) / BM [N s] 
+          Mixed Linear Model Regression Results
+==========================================================
+Model:               MixedLM  Dependent Variable:  Change 
+No. Observations:    14       Method:              REML   
+No. Groups:          14       Scale:               0.0116 
+Min. group size:     1        Log-Likelihood:      -6.9555
+Max. group size:     1        Converged:           Yes    
+Mean group size:     1.0                                  
+----------------------------------------------------------
+                Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+----------------------------------------------------------
+Intercept        0.322    0.187  1.724 0.085 -0.044  0.689
+Avg_Impact_Load -0.000    0.000 -2.168 0.030 -0.000 -0.000
+Group Var        0.012                                    
+==========================================================
+
+
+Metric: Concentric Impulse [N s] 
+           Mixed Linear Model Regression Results
+===========================================================
+Model:               MixedLM  Dependent Variable:  Change  
+No. Observations:    14       Method:              REML    
+No. Groups:          14       Scale:               95.6992 
+Min. group size:     1        Log-Likelihood:      -61.0555
+Max. group size:     1        Converged:           Yes     
+Mean group size:     1.0                                   
+-----------------------------------------------------------
+                Coef.  Std.Err.   z    P>|z|  [0.025 0.975]
+-----------------------------------------------------------
+Intercept       17.836   16.973  1.051 0.293 -15.431 51.103
+Avg_Impact_Load -0.000    0.000 -1.776 0.076  -0.001  0.000
+Group Var       95.699                                     
+===========================================================
+
+
+Metric: Concentric RFD / BM [N/s/kg] 
+           Mixed Linear Model Regression Results
+===========================================================
+Model:               MixedLM  Dependent Variable:  Change  
+No. Observations:    14       Method:              REML    
+No. Groups:          14       Scale:               39.0674 
+Min. group size:     1        Log-Likelihood:      -55.6800
+Max. group size:     1        Converged:           Yes     
+Mean group size:     1.0                                   
+-----------------------------------------------------------
+                Coef.  Std.Err.   z    P>|z|  [0.025 0.975]
+-----------------------------------------------------------
+Intercept       -8.232   10.845 -0.759 0.448 -29.487 13.023
+Avg_Impact_Load  0.000    0.000  1.545 0.122  -0.000  0.000
+Group Var       39.067                                     
+===========================================================
+
+

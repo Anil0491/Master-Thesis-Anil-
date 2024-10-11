@@ -1,0 +1,9 @@
+Metric,Analysis,Result,Coefficient/Statistic,SE,p-value,95% CI
+Jump Height (Imp-Mom) [in],Linear Mixed Model,Significant decrease,-0.731 (LMM) / 708.5 (WSR),0.344 (LMM),0.034 (LMM) / 0.0028 (WSR),-1.406 to -0.057
+RSI-modified (Imp-Mom) [m/s],Linear Mixed Model,Significant decrease,-0.034 (LMM) / 631.5 (WSR),0.016 (LMM),0.037 (LMM) / 0.0015 (WSR),-0.067 to -0.002
+Eccentric Braking RFD / BM [N/s/kg],Linear Mixed Model,Significant decrease,-7.841 (LMM) / 547.5 (WSR),2.709 (LMM),0.004 (LMM) / 0.0001 (WSR),-13.152 to -2.531
+Eccentric Braking Impulse [N s],Wilcoxon Signed-Rank Test,Significant decrease,630.0,,0.0002 (WSR),
+Force at Zero Velocity / BM [N/kg],Linear Mixed Model,Significant decrease,-1.300 (LMM) / 560.0 (WSR),0.455 (LMM),0.004 (LMM) / <0.0001 (WSR),-2.192 to -0.409
+Concentric Impulse (Abs) / BM [N s],Linear Mixed Model,No significant change,0.012 (LMM) / 1197.0 (WSR),0.027 (LMM),0.672 (LMM) / 0.6426 (WSR),-0.042 to 0.065
+Concentric Impulse [N s],Linear Mixed Model,Significant decrease,-7.738 (LMM) / 441.0 (WSR),2.348 (LMM),0.001 (LMM) / <0.0001 (WSR),-12.340 to -3.136
+Concentric RFD / BM [N/s/kg],Linear Mixed Model,Significant increase,6.940 (LMM) / 657.5 (WSR),2.467 (LMM),0.005 (LMM) / 0.0006 (WSR),2.105 to 11.774

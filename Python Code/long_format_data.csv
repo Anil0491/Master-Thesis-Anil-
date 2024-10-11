@@ -1,0 +1,2179 @@
+PlayerID,Date,Position,Metric,Value,Time
+1,2023-09-19,Forward,Impact Load Total (L+R),112136.34,Pre
+2,2023-09-19,Guard,Impact Load Total (L+R),46356.17,Pre
+2,2023-09-26,Guard,Impact Load Total (L+R),31049.4,Pre
+2,2023-09-27,Guard,Impact Load Total (L+R),54405.41,Pre
+2,2023-10-03,Guard,Impact Load Total (L+R),73150.02,Pre
+2,2023-10-04,Guard,Impact Load Total (L+R),45080.46,Pre
+2,2023-10-10,Guard,Impact Load Total (L+R),67694.93,Pre
+2,2023-10-11,Guard,Impact Load Total (L+R),60081.43,Pre
+2,2023-10-17,Guard,Impact Load Total (L+R),50983.77,Pre
+2,2023-10-24,Guard,Impact Load Total (L+R),38928.57,Pre
+2,2023-10-25,Guard,Impact Load Total (L+R),74977.08,Pre
+3,2023-09-19,Guard,Impact Load Total (L+R),87054.47,Pre
+3,2023-09-20,Guard,Impact Load Total (L+R),107436.27,Pre
+3,2023-10-03,Guard,Impact Load Total (L+R),73721.01,Pre
+3,2023-10-04,Guard,Impact Load Total (L+R),27914.51,Pre
+3,2023-10-11,Guard,Impact Load Total (L+R),85774.68,Pre
+3,2023-10-24,Guard,Impact Load Total (L+R),76998.36,Pre
+3,2023-10-25,Guard,Impact Load Total (L+R),107156.66,Pre
+4,2023-09-19,Guard,Impact Load Total (L+R),93208.1,Pre
+4,2023-09-20,Guard,Impact Load Total (L+R),85338.12,Pre
+4,2023-09-26,Guard,Impact Load Total (L+R),54838.23,Pre
+4,2023-09-27,Guard,Impact Load Total (L+R),78690.65,Pre
+4,2023-10-03,Guard,Impact Load Total (L+R),71888.98,Pre
+4,2023-10-04,Guard,Impact Load Total (L+R),38846.48,Pre
+4,2023-10-10,Guard,Impact Load Total (L+R),79502.21,Pre
+4,2023-10-11,Guard,Impact Load Total (L+R),68366.25,Pre
+4,2023-10-17,Guard,Impact Load Total (L+R),101742.39,Pre
+4,2023-10-24,Guard,Impact Load Total (L+R),68779.05,Pre
+4,2023-10-25,Guard,Impact Load Total (L+R),70079.67,Pre
+5,2023-09-19,Guard,Impact Load Total (L+R),86994.32,Pre
+5,2023-09-20,Guard,Impact Load Total (L+R),91442.2,Pre
+5,2023-09-26,Guard,Impact Load Total (L+R),76557.51,Pre
+5,2023-09-27,Guard,Impact Load Total (L+R),50722.47,Pre
+5,2023-10-04,Guard,Impact Load Total (L+R),30279.87,Pre
+5,2023-10-10,Guard,Impact Load Total (L+R),92843.53,Pre
+5,2023-10-24,Guard,Impact Load Total (L+R),88391.27,Pre
+5,2023-10-25,Guard,Impact Load Total (L+R),99217.84,Pre
+6,2023-09-19,Guard,Impact Load Total (L+R),91082.64,Pre
+6,2023-09-20,Guard,Impact Load Total (L+R),120083.71,Pre
+6,2023-09-26,Guard,Impact Load Total (L+R),71023.84,Pre
+6,2023-09-27,Guard,Impact Load Total (L+R),78355.9,Pre
+6,2023-10-03,Guard,Impact Load Total (L+R),52184.81,Pre
+6,2023-10-04,Guard,Impact Load Total (L+R),31839.16,Pre
+6,2023-10-10,Guard,Impact Load Total (L+R),94906.43,Pre
+6,2023-10-11,Guard,Impact Load Total (L+R),86797.15,Pre
+6,2023-10-25,Guard,Impact Load Total (L+R),135144.47,Pre
+7,2023-09-19,Guard,Impact Load Total (L+R),85400.92,Pre
+7,2023-09-27,Guard,Impact Load Total (L+R),30938.41,Pre
+7,2023-10-04,Guard,Impact Load Total (L+R),27896.7,Pre
+7,2023-10-11,Guard,Impact Load Total (L+R),74260.73,Pre
+7,2023-10-18,Guard,Impact Load Total (L+R),103427.28,Pre
+7,2023-10-24,Guard,Impact Load Total (L+R),92105.03,Pre
+8,2023-09-19,Guard,Impact Load Total (L+R),131772.22,Pre
+8,2023-09-20,Guard,Impact Load Total (L+R),112203.27,Pre
+9,2023-09-19,Forward,Impact Load Total (L+R),90657.98,Pre
+9,2023-09-27,Forward,Impact Load Total (L+R),93806.72,Pre
+9,2023-10-03,Forward,Impact Load Total (L+R),100562.37,Pre
+9,2023-10-04,Forward,Impact Load Total (L+R),40753.63,Pre
+9,2023-10-17,Forward,Impact Load Total (L+R),128694.6,Pre
+9,2023-10-18,Forward,Impact Load Total (L+R),139110.55,Pre
+9,2023-10-18,Forward,Impact Load Total (L+R),139110.55,Pre
+9,2023-10-25,Forward,Impact Load Total (L+R),72515.8,Pre
+10,2023-09-19,Guard,Impact Load Total (L+R),95542.01,Pre
+10,2023-09-20,Guard,Impact Load Total (L+R),79973.75,Pre
+10,2023-09-26,Guard,Impact Load Total (L+R),82329.05,Pre
+10,2023-09-27,Guard,Impact Load Total (L+R),92973.26,Pre
+10,2023-10-03,Guard,Impact Load Total (L+R),98554.06,Pre
+10,2023-10-04,Guard,Impact Load Total (L+R),34248.69,Pre
+10,2023-10-17,Guard,Impact Load Total (L+R),113702.59,Pre
+10,2023-10-18,Guard,Impact Load Total (L+R),108491.67,Pre
+11,2023-09-19,Forward,Impact Load Total (L+R),136593.97,Pre
+11,2023-09-20,Forward,Impact Load Total (L+R),124365.7,Pre
+11,2023-09-27,Forward,Impact Load Total (L+R),121885.49,Pre
+11,2023-10-03,Forward,Impact Load Total (L+R),117144.51,Pre
+11,2023-10-04,Forward,Impact Load Total (L+R),57890.61,Pre
+11,2023-10-24,Forward,Impact Load Total (L+R),126523.57,Pre
+11,2023-10-25,Forward,Impact Load Total (L+R),141230.53,Pre
+12,2023-09-19,Guard,Impact Load Total (L+R),72445.34,Pre
+12,2023-09-20,Guard,Impact Load Total (L+R),65962.58,Pre
+12,2023-09-26,Guard,Impact Load Total (L+R),42460.06,Pre
+12,2023-09-27,Guard,Impact Load Total (L+R),64969.01,Pre
+12,2023-10-03,Guard,Impact Load Total (L+R),72397.1,Pre
+12,2023-10-04,Guard,Impact Load Total (L+R),52053.77,Pre
+12,2023-10-10,Guard,Impact Load Total (L+R),76335.44,Pre
+12,2023-10-17,Guard,Impact Load Total (L+R),82330.8,Pre
+12,2023-10-18,Guard,Impact Load Total (L+R),120182.24,Pre
+12,2023-10-24,Guard,Impact Load Total (L+R),93316.73,Pre
+13,2023-09-19,Forward,Impact Load Total (L+R),90116.81,Pre
+13,2023-10-04,Forward,Impact Load Total (L+R),42962.39,Pre
+13,2023-10-10,Forward,Impact Load Total (L+R),77502.36,Pre
+13,2023-10-11,Forward,Impact Load Total (L+R),64675.74,Pre
+13,2023-10-17,Forward,Impact Load Total (L+R),101206.69,Pre
+13,2023-10-24,Forward,Impact Load Total (L+R),87781.32,Pre
+14,2023-09-19,Forward,Impact Load Total (L+R),100571.84,Pre
+14,2023-09-20,Forward,Impact Load Total (L+R),123808.85,Pre
+14,2023-09-26,Forward,Impact Load Total (L+R),62430.89,Pre
+14,2023-09-27,Forward,Impact Load Total (L+R),47710.88,Pre
+14,2023-10-03,Forward,Impact Load Total (L+R),64007.05,Pre
+14,2023-10-04,Forward,Impact Load Total (L+R),37031.31,Pre
+1,2023-09-19,Forward,Average Intensity (L and R),13.64,Pre
+2,2023-09-19,Guard,Average Intensity (L and R),9.99,Pre
+2,2023-09-26,Guard,Average Intensity (L and R),8.88,Pre
+2,2023-09-27,Guard,Average Intensity (L and R),9.35,Pre
+2,2023-10-03,Guard,Average Intensity (L and R),10.6,Pre
+2,2023-10-04,Guard,Average Intensity (L and R),10.16,Pre
+2,2023-10-10,Guard,Average Intensity (L and R),9.55,Pre
+2,2023-10-11,Guard,Average Intensity (L and R),9.79,Pre
+2,2023-10-17,Guard,Average Intensity (L and R),8.24,Pre
+2,2023-10-24,Guard,Average Intensity (L and R),9.07,Pre
+2,2023-10-25,Guard,Average Intensity (L and R),9.86,Pre
+3,2023-09-19,Guard,Average Intensity (L and R),10.68,Pre
+3,2023-09-20,Guard,Average Intensity (L and R),13.42,Pre
+3,2023-10-03,Guard,Average Intensity (L and R),11.74,Pre
+3,2023-10-04,Guard,Average Intensity (L and R),11.15,Pre
+3,2023-10-11,Guard,Average Intensity (L and R),13.3,Pre
+3,2023-10-24,Guard,Average Intensity (L and R),11.23,Pre
+3,2023-10-25,Guard,Average Intensity (L and R),11.02,Pre
+4,2023-09-19,Guard,Average Intensity (L and R),10.99,Pre
+4,2023-09-20,Guard,Average Intensity (L and R),11.64,Pre
+4,2023-09-26,Guard,Average Intensity (L and R),8.91,Pre
+4,2023-09-27,Guard,Average Intensity (L and R),11.59,Pre
+4,2023-10-03,Guard,Average Intensity (L and R),10.52,Pre
+4,2023-10-04,Guard,Average Intensity (L and R),9.82,Pre
+4,2023-10-10,Guard,Average Intensity (L and R),9.81,Pre
+4,2023-10-11,Guard,Average Intensity (L and R),10.86,Pre
+4,2023-10-17,Guard,Average Intensity (L and R),11.25,Pre
+4,2023-10-24,Guard,Average Intensity (L and R),10.52,Pre
+4,2023-10-25,Guard,Average Intensity (L and R),11.18,Pre
+5,2023-09-19,Guard,Average Intensity (L and R),11.06,Pre
+5,2023-09-20,Guard,Average Intensity (L and R),11.42,Pre
+5,2023-09-26,Guard,Average Intensity (L and R),10.92,Pre
+5,2023-09-27,Guard,Average Intensity (L and R),9.81,Pre
+5,2023-10-04,Guard,Average Intensity (L and R),9.78,Pre
+5,2023-10-10,Guard,Average Intensity (L and R),10.81,Pre
+5,2023-10-24,Guard,Average Intensity (L and R),10.24,Pre
+5,2023-10-25,Guard,Average Intensity (L and R),9.5,Pre
+6,2023-09-19,Guard,Average Intensity (L and R),11.51,Pre
+6,2023-09-20,Guard,Average Intensity (L and R),13.67,Pre
+6,2023-09-26,Guard,Average Intensity (L and R),11.45,Pre
+6,2023-09-27,Guard,Average Intensity (L and R),13.51,Pre
+6,2023-10-03,Guard,Average Intensity (L and R),13.09,Pre
+6,2023-10-04,Guard,Average Intensity (L and R),12.18,Pre
+6,2023-10-10,Guard,Average Intensity (L and R),12.22,Pre
+6,2023-10-11,Guard,Average Intensity (L and R),14.75,Pre
+6,2023-10-25,Guard,Average Intensity (L and R),17.92,Pre
+7,2023-09-19,Guard,Average Intensity (L and R),11.8,Pre
+7,2023-09-27,Guard,Average Intensity (L and R),9.28,Pre
+7,2023-10-04,Guard,Average Intensity (L and R),9.41,Pre
+7,2023-10-11,Guard,Average Intensity (L and R),12.09,Pre
+7,2023-10-18,Guard,Average Intensity (L and R),11.93,Pre
+7,2023-10-24,Guard,Average Intensity (L and R),11.52,Pre
+8,2023-09-19,Guard,Average Intensity (L and R),17.38,Pre
+8,2023-09-20,Guard,Average Intensity (L and R),15.49,Pre
+9,2023-09-19,Forward,Average Intensity (L and R),11.65,Pre
+9,2023-09-27,Forward,Average Intensity (L and R),14.92,Pre
+9,2023-10-03,Forward,Average Intensity (L and R),14.25,Pre
+9,2023-10-04,Forward,Average Intensity (L and R),11.41,Pre
+9,2023-10-17,Forward,Average Intensity (L and R),14.22,Pre
+9,2023-10-18,Forward,Average Intensity (L and R),15.72,Pre
+9,2023-10-18,Forward,Average Intensity (L and R),15.72,Pre
+9,2023-10-25,Forward,Average Intensity (L and R),10.64,Pre
+10,2023-09-19,Guard,Average Intensity (L and R),11.71,Pre
+10,2023-09-20,Guard,Average Intensity (L and R),11.82,Pre
+10,2023-09-26,Guard,Average Intensity (L and R),11.96,Pre
+10,2023-09-27,Guard,Average Intensity (L and R),14.45,Pre
+10,2023-10-03,Guard,Average Intensity (L and R),13.85,Pre
+10,2023-10-04,Guard,Average Intensity (L and R),11.14,Pre
+10,2023-10-17,Guard,Average Intensity (L and R),13.24,Pre
+10,2023-10-18,Guard,Average Intensity (L and R),12.6,Pre
+11,2023-09-19,Forward,Average Intensity (L and R),16.05,Pre
+11,2023-09-20,Forward,Average Intensity (L and R),17.13,Pre
+11,2023-09-27,Forward,Average Intensity (L and R),17.94,Pre
+11,2023-10-03,Forward,Average Intensity (L and R),16.45,Pre
+11,2023-10-04,Forward,Average Intensity (L and R),17.02,Pre
+11,2023-10-24,Forward,Average Intensity (L and R),15.93,Pre
+11,2023-10-25,Forward,Average Intensity (L and R),16.41,Pre
+12,2023-09-19,Guard,Average Intensity (L and R),11.36,Pre
+12,2023-09-20,Guard,Average Intensity (L and R),12.88,Pre
+12,2023-09-26,Guard,Average Intensity (L and R),9.97,Pre
+12,2023-09-27,Guard,Average Intensity (L and R),13.73,Pre
+12,2023-10-03,Guard,Average Intensity (L and R),12.13,Pre
+12,2023-10-04,Guard,Average Intensity (L and R),12.59,Pre
+12,2023-10-10,Guard,Average Intensity (L and R),10.91,Pre
+12,2023-10-17,Guard,Average Intensity (L and R),10.04,Pre
+12,2023-10-18,Guard,Average Intensity (L and R),14.29,Pre
+12,2023-10-24,Guard,Average Intensity (L and R),14.02,Pre
+13,2023-09-19,Forward,Average Intensity (L and R),11.79,Pre
+13,2023-10-04,Forward,Average Intensity (L and R),10.96,Pre
+13,2023-10-10,Forward,Average Intensity (L and R),10.41,Pre
+13,2023-10-11,Forward,Average Intensity (L and R),10.99,Pre
+13,2023-10-17,Forward,Average Intensity (L and R),10.84,Pre
+13,2023-10-24,Forward,Average Intensity (L and R),12.13,Pre
+14,2023-09-19,Forward,Average Intensity (L and R),13.13,Pre
+14,2023-09-20,Forward,Average Intensity (L and R),19.66,Pre
+14,2023-09-26,Forward,Average Intensity (L and R),11.08,Pre
+14,2023-09-27,Forward,Average Intensity (L and R),11.17,Pre
+14,2023-10-03,Forward,Average Intensity (L and R),10.69,Pre
+14,2023-10-04,Forward,Average Intensity (L and R),11.18,Pre
+1,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,13.7,Pre
+2,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.4,Pre
+2,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.8,Pre
+2,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.5,Pre
+2,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,19.0,Pre
+2,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,19.4,Pre
+2,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,19.6,Pre
+2,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.4,Pre
+2,2023-10-17,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.6,Pre
+2,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,19.7,Pre
+2,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.2,Pre
+3,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.3,Pre
+3,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.0,Pre
+3,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.1,Pre
+3,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.3,Pre
+3,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.2,Pre
+3,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.8,Pre
+3,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.0,Pre
+4,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.7,Pre
+4,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.8,Pre
+4,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.6,Pre
+4,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.6,Pre
+4,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.6,Pre
+4,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.1,Pre
+4,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.7,Pre
+4,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.7,Pre
+4,2023-10-17,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.3,Pre
+4,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.8,Pre
+4,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.4,Pre
+5,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.0,Pre
+5,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.6,Pre
+5,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.3,Pre
+5,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.4,Pre
+5,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.2,Pre
+5,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.1,Pre
+5,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.1,Pre
+5,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.4,Pre
+6,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.3,Pre
+6,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.3,Pre
+6,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.3,Pre
+6,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.0,Pre
+6,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.3,Pre
+6,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.2,Pre
+6,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.7,Pre
+6,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.2,Pre
+6,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.7,Pre
+7,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.7,Pre
+7,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.2,Pre
+7,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.5,Pre
+7,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.5,Pre
+7,2023-10-18,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.1,Pre
+7,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,20.2,Pre
+8,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.4,Pre
+8,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.0,Pre
+9,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,14.2,Pre
+9,2023-09-27,Forward,Jump Height (Imp-Mom) in Inches [in] ,14.4,Pre
+9,2023-10-03,Forward,Jump Height (Imp-Mom) in Inches [in] ,14.3,Pre
+9,2023-10-04,Forward,Jump Height (Imp-Mom) in Inches [in] ,13.5,Pre
+9,2023-10-17,Forward,Jump Height (Imp-Mom) in Inches [in] ,14.9,Pre
+9,2023-10-18,Forward,Jump Height (Imp-Mom) in Inches [in] ,13.7,Pre
+9,2023-10-18,Forward,Jump Height (Imp-Mom) in Inches [in] ,13.7,Pre
+9,2023-10-25,Forward,Jump Height (Imp-Mom) in Inches [in] ,14.7,Pre
+10,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.4,Pre
+10,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.5,Pre
+10,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.2,Pre
+10,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.5,Pre
+10,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.5,Pre
+10,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.2,Pre
+10,2023-10-17,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.0,Pre
+10,2023-10-18,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.1,Pre
+11,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,16.8,Pre
+11,2023-09-20,Forward,Jump Height (Imp-Mom) in Inches [in] ,16.6,Pre
+11,2023-09-27,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.1,Pre
+11,2023-10-03,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.2,Pre
+11,2023-10-04,Forward,Jump Height (Imp-Mom) in Inches [in] ,39.4,Pre
+11,2023-10-24,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.5,Pre
+11,2023-10-25,Forward,Jump Height (Imp-Mom) in Inches [in] ,16.8,Pre
+12,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.0,Pre
+12,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.0,Pre
+12,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.8,Pre
+12,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.8,Pre
+12,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.1,Pre
+12,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.2,Pre
+12,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.9,Pre
+12,2023-10-17,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.4,Pre
+12,2023-10-18,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.3,Pre
+12,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.9,Pre
+13,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,10.4,Pre
+13,2023-10-04,Forward,Jump Height (Imp-Mom) in Inches [in] ,20.4,Pre
+13,2023-10-10,Forward,Jump Height (Imp-Mom) in Inches [in] ,11.7,Pre
+13,2023-10-11,Forward,Jump Height (Imp-Mom) in Inches [in] ,9.5,Pre
+13,2023-10-17,Forward,Jump Height (Imp-Mom) in Inches [in] ,9.9,Pre
+13,2023-10-24,Forward,Jump Height (Imp-Mom) in Inches [in] ,10.4,Pre
+14,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,16.3,Pre
+14,2023-09-20,Forward,Jump Height (Imp-Mom) in Inches [in] ,16.4,Pre
+14,2023-09-26,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.7,Pre
+14,2023-09-27,Forward,Jump Height (Imp-Mom) in Inches [in] ,15.6,Pre
+14,2023-10-03,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.8,Pre
+14,2023-10-04,Forward,Jump Height (Imp-Mom) in Inches [in] ,13.1,Pre
+1,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.49,Pre
+2,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.62,Pre
+2,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.55,Pre
+2,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.55,Pre
+2,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.56,Pre
+2,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.62,Pre
+2,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.62,Pre
+2,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.57,Pre
+2,2023-10-17,Guard,RSI-modified (Imp-Mom) [m/s] ,0.6,Pre
+2,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.64,Pre
+2,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.56,Pre
+3,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.6,Pre
+3,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.56,Pre
+3,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Pre
+3,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.58,Pre
+3,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.62,Pre
+3,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.62,Pre
+3,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.63,Pre
+4,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.71,Pre
+4,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.71,Pre
+4,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.55,Pre
+4,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.58,Pre
+4,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.65,Pre
+4,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.7,Pre
+4,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.72,Pre
+4,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.69,Pre
+4,2023-10-17,Guard,RSI-modified (Imp-Mom) [m/s] ,0.66,Pre
+4,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.68,Pre
+4,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.71,Pre
+5,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Pre
+5,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.5,Pre
+5,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Pre
+5,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.5,Pre
+5,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Pre
+5,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.44,Pre
+5,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Pre
+5,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Pre
+6,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Pre
+6,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.57,Pre
+6,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Pre
+6,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.49,Pre
+6,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.5,Pre
+6,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Pre
+6,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.44,Pre
+6,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.43,Pre
+6,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Pre
+7,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.59,Pre
+7,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.6,Pre
+7,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Pre
+7,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.6,Pre
+7,2023-10-18,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Pre
+7,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.64,Pre
+8,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.53,Pre
+8,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.39,Pre
+9,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.48,Pre
+9,2023-09-27,Forward,RSI-modified (Imp-Mom) [m/s] ,0.48,Pre
+9,2023-10-03,Forward,RSI-modified (Imp-Mom) [m/s] ,0.52,Pre
+9,2023-10-04,Forward,RSI-modified (Imp-Mom) [m/s] ,0.45,Pre
+9,2023-10-17,Forward,RSI-modified (Imp-Mom) [m/s] ,0.46,Pre
+9,2023-10-18,Forward,RSI-modified (Imp-Mom) [m/s] ,0.48,Pre
+9,2023-10-18,Forward,RSI-modified (Imp-Mom) [m/s] ,0.48,Pre
+9,2023-10-25,Forward,RSI-modified (Imp-Mom) [m/s] ,0.53,Pre
+10,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.42,Pre
+10,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.4,Pre
+10,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.38,Pre
+10,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.43,Pre
+10,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.42,Pre
+10,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.38,Pre
+10,2023-10-17,Guard,RSI-modified (Imp-Mom) [m/s] ,0.37,Pre
+10,2023-10-18,Guard,RSI-modified (Imp-Mom) [m/s] ,0.36,Pre
+11,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.5,Pre
+11,2023-09-20,Forward,RSI-modified (Imp-Mom) [m/s] ,0.48,Pre
+11,2023-09-27,Forward,RSI-modified (Imp-Mom) [m/s] ,0.53,Pre
+11,2023-10-03,Forward,RSI-modified (Imp-Mom) [m/s] ,0.49,Pre
+11,2023-10-04,Forward,RSI-modified (Imp-Mom) [m/s] ,1.12,Pre
+11,2023-10-24,Forward,RSI-modified (Imp-Mom) [m/s] ,0.49,Pre
+11,2023-10-25,Forward,RSI-modified (Imp-Mom) [m/s] ,0.49,Pre
+12,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Pre
+12,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Pre
+12,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.55,Pre
+12,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.59,Pre
+12,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.63,Pre
+12,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.56,Pre
+12,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.57,Pre
+12,2023-10-17,Guard,RSI-modified (Imp-Mom) [m/s] ,0.49,Pre
+12,2023-10-18,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Pre
+12,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Pre
+13,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.31,Pre
+13,2023-10-04,Forward,RSI-modified (Imp-Mom) [m/s] ,0.66,Pre
+13,2023-10-10,Forward,RSI-modified (Imp-Mom) [m/s] ,0.38,Pre
+13,2023-10-11,Forward,RSI-modified (Imp-Mom) [m/s] ,0.3,Pre
+13,2023-10-17,Forward,RSI-modified (Imp-Mom) [m/s] ,0.31,Pre
+13,2023-10-24,Forward,RSI-modified (Imp-Mom) [m/s] ,0.34,Pre
+14,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.49,Pre
+14,2023-09-20,Forward,RSI-modified (Imp-Mom) [m/s] ,0.46,Pre
+14,2023-09-26,Forward,RSI-modified (Imp-Mom) [m/s] ,0.55,Pre
+14,2023-09-27,Forward,RSI-modified (Imp-Mom) [m/s] ,0.44,Pre
+14,2023-10-03,Forward,RSI-modified (Imp-Mom) [m/s] ,0.53,Pre
+14,2023-10-04,Forward,RSI-modified (Imp-Mom) [m/s] ,0.38,Pre
+1,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,72.0,Pre
+2,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,56.0,Pre
+2,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,36.0,Pre
+2,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,34.0,Pre
+2,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,35.0,Pre
+2,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,46.0,Pre
+2,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,40.0,Pre
+2,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,38.0,Pre
+2,2023-10-17,Guard,Eccentric Braking RFD / BM [N/s/kg] ,45.0,Pre
+2,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,51.0,Pre
+2,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,36.0,Pre
+3,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,77.0,Pre
+3,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,77.0,Pre
+3,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,66.0,Pre
+3,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,68.0,Pre
+3,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,73.0,Pre
+3,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,73.0,Pre
+3,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,82.0,Pre
+4,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,104.0,Pre
+4,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,115.0,Pre
+4,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,65.0,Pre
+4,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,70.0,Pre
+4,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,78.0,Pre
+4,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,99.0,Pre
+4,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,102.0,Pre
+4,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,98.0,Pre
+4,2023-10-17,Guard,Eccentric Braking RFD / BM [N/s/kg] ,91.0,Pre
+4,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,107.0,Pre
+4,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,106.0,Pre
+5,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,69.0,Pre
+5,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,65.0,Pre
+5,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,65.0,Pre
+5,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,61.0,Pre
+5,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,69.0,Pre
+5,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,52.0,Pre
+5,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,75.0,Pre
+5,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,74.0,Pre
+6,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,61.0,Pre
+6,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,73.0,Pre
+6,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,58.0,Pre
+6,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,52.0,Pre
+6,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,53.0,Pre
+6,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,63.0,Pre
+6,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,50.0,Pre
+6,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,48.0,Pre
+6,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,54.0,Pre
+7,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,72.0,Pre
+7,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,68.0,Pre
+7,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,55.0,Pre
+7,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,64.0,Pre
+7,2023-10-18,Guard,Eccentric Braking RFD / BM [N/s/kg] ,49.0,Pre
+7,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,65.0,Pre
+8,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,51.0,Pre
+8,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,41.0,Pre
+9,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,78.0,Pre
+9,2023-09-27,Forward,Eccentric Braking RFD / BM [N/s/kg] ,90.0,Pre
+9,2023-10-03,Forward,Eccentric Braking RFD / BM [N/s/kg] ,99.0,Pre
+9,2023-10-04,Forward,Eccentric Braking RFD / BM [N/s/kg] ,78.0,Pre
+9,2023-10-17,Forward,Eccentric Braking RFD / BM [N/s/kg] ,78.0,Pre
+9,2023-10-18,Forward,Eccentric Braking RFD / BM [N/s/kg] ,80.0,Pre
+9,2023-10-18,Forward,Eccentric Braking RFD / BM [N/s/kg] ,80.0,Pre
+9,2023-10-25,Forward,Eccentric Braking RFD / BM [N/s/kg] ,96.0,Pre
+10,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,55.0,Pre
+10,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,51.0,Pre
+10,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,42.0,Pre
+10,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,52.0,Pre
+10,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,53.0,Pre
+10,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,45.0,Pre
+10,2023-10-17,Guard,Eccentric Braking RFD / BM [N/s/kg] ,44.0,Pre
+10,2023-10-18,Guard,Eccentric Braking RFD / BM [N/s/kg] ,38.0,Pre
+11,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,46.0,Pre
+11,2023-09-20,Forward,Eccentric Braking RFD / BM [N/s/kg] ,53.0,Pre
+11,2023-09-27,Forward,Eccentric Braking RFD / BM [N/s/kg] ,53.0,Pre
+11,2023-10-03,Forward,Eccentric Braking RFD / BM [N/s/kg] ,49.0,Pre
+11,2023-10-04,Forward,Eccentric Braking RFD / BM [N/s/kg] ,77.0,Pre
+11,2023-10-24,Forward,Eccentric Braking RFD / BM [N/s/kg] ,50.0,Pre
+11,2023-10-25,Forward,Eccentric Braking RFD / BM [N/s/kg] ,47.0,Pre
+12,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,94.0,Pre
+12,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,82.0,Pre
+12,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,82.0,Pre
+12,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,106.0,Pre
+12,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,128.0,Pre
+12,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,82.0,Pre
+12,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,92.0,Pre
+12,2023-10-17,Guard,Eccentric Braking RFD / BM [N/s/kg] ,71.0,Pre
+12,2023-10-18,Guard,Eccentric Braking RFD / BM [N/s/kg] ,78.0,Pre
+12,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,91.0,Pre
+13,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,58.0,Pre
+13,2023-10-04,Forward,Eccentric Braking RFD / BM [N/s/kg] ,84.0,Pre
+13,2023-10-10,Forward,Eccentric Braking RFD / BM [N/s/kg] ,77.0,Pre
+13,2023-10-11,Forward,Eccentric Braking RFD / BM [N/s/kg] ,54.0,Pre
+13,2023-10-17,Forward,Eccentric Braking RFD / BM [N/s/kg] ,62.0,Pre
+13,2023-10-24,Forward,Eccentric Braking RFD / BM [N/s/kg] ,64.0,Pre
+14,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,64.0,Pre
+14,2023-09-20,Forward,Eccentric Braking RFD / BM [N/s/kg] ,55.0,Pre
+14,2023-09-26,Forward,Eccentric Braking RFD / BM [N/s/kg] ,66.0,Pre
+14,2023-09-27,Forward,Eccentric Braking RFD / BM [N/s/kg] ,50.0,Pre
+14,2023-10-03,Forward,Eccentric Braking RFD / BM [N/s/kg] ,63.0,Pre
+14,2023-10-04,Forward,Eccentric Braking RFD / BM [N/s/kg] ,41.0,Pre
+1,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,65.5,Pre
+2,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,39.3,Pre
+2,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,34.5,Pre
+2,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,33.8,Pre
+2,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,39.0,Pre
+2,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,35.6,Pre
+2,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,29.0,Pre
+2,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,31.3,Pre
+2,2023-10-17,Guard,Eccentric Braking Impulse [N s] ,31.1,Pre
+2,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,48.8,Pre
+2,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,33.9,Pre
+3,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,48.0,Pre
+3,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,49.5,Pre
+3,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,47.0,Pre
+3,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,45.0,Pre
+3,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,47.1,Pre
+3,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,45.3,Pre
+3,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,46.4,Pre
+4,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,52.5,Pre
+4,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,54.0,Pre
+4,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,38.2,Pre
+4,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,39.7,Pre
+4,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,40.8,Pre
+4,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,42.8,Pre
+4,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,44.9,Pre
+4,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,41.9,Pre
+4,2023-10-17,Guard,Eccentric Braking Impulse [N s] ,43.7,Pre
+4,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,50.0,Pre
+4,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,46.7,Pre
+5,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,69.1,Pre
+5,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,69.1,Pre
+5,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,67.1,Pre
+5,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,59.7,Pre
+5,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,65.4,Pre
+5,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,56.3,Pre
+5,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,77.9,Pre
+5,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,70.2,Pre
+6,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,53.3,Pre
+6,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,59.3,Pre
+6,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,55.8,Pre
+6,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,56.0,Pre
+6,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,52.2,Pre
+6,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,61.6,Pre
+6,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,55.3,Pre
+6,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,54.1,Pre
+6,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,53.5,Pre
+7,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,50.0,Pre
+7,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,47.2,Pre
+7,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,60.0,Pre
+7,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,55.4,Pre
+7,2023-10-18,Guard,Eccentric Braking Impulse [N s] ,57.3,Pre
+7,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,51.5,Pre
+8,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,38.7,Pre
+8,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,35.8,Pre
+9,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,73.4,Pre
+9,2023-09-27,Forward,Eccentric Braking Impulse [N s] ,94.2,Pre
+9,2023-10-03,Forward,Eccentric Braking Impulse [N s] ,92.5,Pre
+9,2023-10-04,Forward,Eccentric Braking Impulse [N s] ,66.7,Pre
+9,2023-10-17,Forward,Eccentric Braking Impulse [N s] ,82.1,Pre
+9,2023-10-18,Forward,Eccentric Braking Impulse [N s] ,73.7,Pre
+9,2023-10-18,Forward,Eccentric Braking Impulse [N s] ,73.7,Pre
+9,2023-10-25,Forward,Eccentric Braking Impulse [N s] ,68.0,Pre
+10,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,53.0,Pre
+10,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,50.8,Pre
+10,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,42.4,Pre
+10,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,51.5,Pre
+10,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,51.6,Pre
+10,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,41.8,Pre
+10,2023-10-17,Guard,Eccentric Braking Impulse [N s] ,44.0,Pre
+10,2023-10-18,Guard,Eccentric Braking Impulse [N s] ,39.1,Pre
+11,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,54.8,Pre
+11,2023-09-20,Forward,Eccentric Braking Impulse [N s] ,64.5,Pre
+11,2023-09-27,Forward,Eccentric Braking Impulse [N s] ,58.4,Pre
+11,2023-10-03,Forward,Eccentric Braking Impulse [N s] ,74.6,Pre
+11,2023-10-04,Forward,Eccentric Braking Impulse [N s] ,69.9,Pre
+11,2023-10-24,Forward,Eccentric Braking Impulse [N s] ,68.2,Pre
+11,2023-10-25,Forward,Eccentric Braking Impulse [N s] ,64.9,Pre
+12,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,47.5,Pre
+12,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,42.1,Pre
+12,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,40.4,Pre
+12,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,43.2,Pre
+12,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,51.0,Pre
+12,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,36.4,Pre
+12,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,45.3,Pre
+12,2023-10-17,Guard,Eccentric Braking Impulse [N s] ,41.6,Pre
+12,2023-10-18,Guard,Eccentric Braking Impulse [N s] ,42.6,Pre
+12,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,51.7,Pre
+13,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,79.8,Pre
+13,2023-10-04,Forward,Eccentric Braking Impulse [N s] ,92.7,Pre
+13,2023-10-10,Forward,Eccentric Braking Impulse [N s] ,100.2,Pre
+13,2023-10-11,Forward,Eccentric Braking Impulse [N s] ,85.7,Pre
+13,2023-10-17,Forward,Eccentric Braking Impulse [N s] ,89.3,Pre
+13,2023-10-24,Forward,Eccentric Braking Impulse [N s] ,80.2,Pre
+14,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,74.6,Pre
+14,2023-09-20,Forward,Eccentric Braking Impulse [N s] ,69.5,Pre
+14,2023-09-26,Forward,Eccentric Braking Impulse [N s] ,67.4,Pre
+14,2023-09-27,Forward,Eccentric Braking Impulse [N s] ,64.1,Pre
+14,2023-10-03,Forward,Eccentric Braking Impulse [N s] ,66.9,Pre
+14,2023-10-04,Forward,Eccentric Braking Impulse [N s] ,53.7,Pre
+1,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,22.85,Pre
+2,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,23.46,Pre
+2,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,20.38,Pre
+2,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,19.39,Pre
+2,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,19.43,Pre
+2,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,22.16,Pre
+2,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,21.22,Pre
+2,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,20.7,Pre
+2,2023-10-17,Guard,Force at Zero Velocity / BM [N/kg] ,21.72,Pre
+2,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,21.95,Pre
+2,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,19.73,Pre
+3,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,22.61,Pre
+3,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,21.85,Pre
+3,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,21.15,Pre
+3,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,21.74,Pre
+3,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,22.37,Pre
+3,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,23.59,Pre
+3,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,23.27,Pre
+4,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,25.72,Pre
+4,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,26.53,Pre
+4,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,22.08,Pre
+4,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,22.22,Pre
+4,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,23.1,Pre
+4,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,25.92,Pre
+4,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,26.27,Pre
+4,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,25.32,Pre
+4,2023-10-17,Guard,Force at Zero Velocity / BM [N/kg] ,24.54,Pre
+4,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,27.24,Pre
+4,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,26.34,Pre
+5,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,22.25,Pre
+5,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,21.75,Pre
+5,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,21.83,Pre
+5,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,21.57,Pre
+5,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,21.93,Pre
+5,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,19.82,Pre
+5,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,23.6,Pre
+5,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,23.53,Pre
+6,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,22.47,Pre
+6,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,24.7,Pre
+6,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,21.55,Pre
+6,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,20.2,Pre
+6,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,20.43,Pre
+6,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,22.01,Pre
+6,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,19.46,Pre
+6,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,19.7,Pre
+6,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,20.76,Pre
+7,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,23.37,Pre
+7,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,21.35,Pre
+7,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,20.49,Pre
+7,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,21.99,Pre
+7,2023-10-18,Guard,Force at Zero Velocity / BM [N/kg] ,19.79,Pre
+7,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,23.59,Pre
+8,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,21.2,Pre
+8,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,19.32,Pre
+9,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,22.96,Pre
+9,2023-09-27,Forward,Force at Zero Velocity / BM [N/kg] ,23.86,Pre
+9,2023-10-03,Forward,Force at Zero Velocity / BM [N/kg] ,23.28,Pre
+9,2023-10-04,Forward,Force at Zero Velocity / BM [N/kg] ,22.48,Pre
+9,2023-10-17,Forward,Force at Zero Velocity / BM [N/kg] ,22.83,Pre
+9,2023-10-18,Forward,Force at Zero Velocity / BM [N/kg] ,22.21,Pre
+9,2023-10-18,Forward,Force at Zero Velocity / BM [N/kg] ,22.21,Pre
+9,2023-10-25,Forward,Force at Zero Velocity / BM [N/kg] ,24.22,Pre
+10,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,20.2,Pre
+10,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,20.91,Pre
+10,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,17.94,Pre
+10,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,20.65,Pre
+10,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,19.88,Pre
+10,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,18.64,Pre
+10,2023-10-17,Guard,Force at Zero Velocity / BM [N/kg] ,19.02,Pre
+10,2023-10-18,Guard,Force at Zero Velocity / BM [N/kg] ,18.65,Pre
+11,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,21.06,Pre
+11,2023-09-20,Forward,Force at Zero Velocity / BM [N/kg] ,21.09,Pre
+11,2023-09-27,Forward,Force at Zero Velocity / BM [N/kg] ,20.69,Pre
+11,2023-10-03,Forward,Force at Zero Velocity / BM [N/kg] ,20.76,Pre
+11,2023-10-04,Forward,Force at Zero Velocity / BM [N/kg] ,26.29,Pre
+11,2023-10-24,Forward,Force at Zero Velocity / BM [N/kg] ,20.38,Pre
+11,2023-10-25,Forward,Force at Zero Velocity / BM [N/kg] ,20.05,Pre
+12,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,24.53,Pre
+12,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,23.95,Pre
+12,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,24.33,Pre
+12,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,26.69,Pre
+12,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,28.53,Pre
+12,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,25.41,Pre
+12,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,26.17,Pre
+12,2023-10-17,Guard,Force at Zero Velocity / BM [N/kg] ,23.32,Pre
+12,2023-10-18,Guard,Force at Zero Velocity / BM [N/kg] ,24.3,Pre
+12,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,24.53,Pre
+13,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,21.61,Pre
+13,2023-10-04,Forward,Force at Zero Velocity / BM [N/kg] ,25.13,Pre
+13,2023-10-10,Forward,Force at Zero Velocity / BM [N/kg] ,23.93,Pre
+13,2023-10-11,Forward,Force at Zero Velocity / BM [N/kg] ,20.72,Pre
+13,2023-10-17,Forward,Force at Zero Velocity / BM [N/kg] ,20.93,Pre
+13,2023-10-24,Forward,Force at Zero Velocity / BM [N/kg] ,22.22,Pre
+14,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,22.61,Pre
+14,2023-09-20,Forward,Force at Zero Velocity / BM [N/kg] ,21.6,Pre
+14,2023-09-26,Forward,Force at Zero Velocity / BM [N/kg] ,23.49,Pre
+14,2023-09-27,Forward,Force at Zero Velocity / BM [N/kg] ,20.2,Pre
+14,2023-10-03,Forward,Force at Zero Velocity / BM [N/kg] ,22.93,Pre
+14,2023-10-04,Forward,Force at Zero Velocity / BM [N/kg] ,18.27,Pre
+1,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,4.962,Pre
+2,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.48,Pre
+2,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,5.637,Pre
+2,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.614,Pre
+2,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,5.696,Pre
+2,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,5.566,Pre
+2,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,5.573,Pre
+2,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,5.445,Pre
+2,2023-10-17,Guard,Concentric Impulse (Abs) / BM [N s] ,5.385,Pre
+2,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,5.545,Pre
+2,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,5.501,Pre
+3,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,4.987,Pre
+3,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,4.904,Pre
+3,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,5.018,Pre
+3,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,4.984,Pre
+3,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,5.05,Pre
+3,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,5.187,Pre
+3,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,4.929,Pre
+4,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.211,Pre
+4,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,5.133,Pre
+4,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,5.161,Pre
+4,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.136,Pre
+4,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,5.273,Pre
+4,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,5.159,Pre
+4,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,5.055,Pre
+4,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,5.174,Pre
+4,2023-10-17,Guard,Concentric Impulse (Abs) / BM [N s] ,5.126,Pre
+4,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,5.123,Pre
+4,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,5.207,Pre
+5,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.195,Pre
+5,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,5.593,Pre
+5,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,5.467,Pre
+5,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.423,Pre
+5,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,5.38,Pre
+5,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,5.708,Pre
+5,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,5.679,Pre
+5,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,5.638,Pre
+6,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.679,Pre
+6,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,5.679,Pre
+6,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,5.767,Pre
+6,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.675,Pre
+6,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,5.752,Pre
+6,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,5.827,Pre
+6,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,5.531,Pre
+6,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,5.443,Pre
+6,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,5.727,Pre
+7,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.692,Pre
+7,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.661,Pre
+7,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,6.037,Pre
+7,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,5.98,Pre
+7,2023-10-18,Guard,Concentric Impulse (Abs) / BM [N s] ,6.091,Pre
+7,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,6.036,Pre
+8,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.321,Pre
+8,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,5.11,Pre
+9,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,5.567,Pre
+9,2023-09-27,Forward,Concentric Impulse (Abs) / BM [N s] ,5.664,Pre
+9,2023-10-03,Forward,Concentric Impulse (Abs) / BM [N s] ,5.392,Pre
+9,2023-10-04,Forward,Concentric Impulse (Abs) / BM [N s] ,5.272,Pre
+9,2023-10-17,Forward,Concentric Impulse (Abs) / BM [N s] ,5.72,Pre
+9,2023-10-18,Forward,Concentric Impulse (Abs) / BM [N s] ,5.297,Pre
+9,2023-10-18,Forward,Concentric Impulse (Abs) / BM [N s] ,5.297,Pre
+9,2023-10-25,Forward,Concentric Impulse (Abs) / BM [N s] ,5.131,Pre
+10,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.194,Pre
+10,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,5.325,Pre
+10,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,4.951,Pre
+10,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.407,Pre
+10,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,5.011,Pre
+10,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,4.991,Pre
+10,2023-10-17,Guard,Concentric Impulse (Abs) / BM [N s] ,5.009,Pre
+10,2023-10-18,Guard,Concentric Impulse (Abs) / BM [N s] ,5.118,Pre
+11,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,5.419,Pre
+11,2023-09-20,Forward,Concentric Impulse (Abs) / BM [N s] ,5.589,Pre
+11,2023-09-27,Forward,Concentric Impulse (Abs) / BM [N s] ,5.491,Pre
+11,2023-10-03,Forward,Concentric Impulse (Abs) / BM [N s] ,5.741,Pre
+11,2023-10-04,Forward,Concentric Impulse (Abs) / BM [N s] ,7.2,Pre
+11,2023-10-24,Forward,Concentric Impulse (Abs) / BM [N s] ,5.873,Pre
+11,2023-10-25,Forward,Concentric Impulse (Abs) / BM [N s] ,5.82,Pre
+12,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,4.761,Pre
+12,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,4.843,Pre
+12,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,4.756,Pre
+12,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,4.645,Pre
+12,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,4.668,Pre
+12,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,4.605,Pre
+12,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,4.698,Pre
+12,2023-10-17,Guard,Concentric Impulse (Abs) / BM [N s] ,4.915,Pre
+12,2023-10-18,Guard,Concentric Impulse (Abs) / BM [N s] ,4.728,Pre
+12,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,4.773,Pre
+13,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,5.504,Pre
+13,2023-10-04,Forward,Concentric Impulse (Abs) / BM [N s] ,6.049,Pre
+13,2023-10-10,Forward,Concentric Impulse (Abs) / BM [N s] ,5.4,Pre
+13,2023-10-11,Forward,Concentric Impulse (Abs) / BM [N s] ,5.102,Pre
+13,2023-10-17,Forward,Concentric Impulse (Abs) / BM [N s] ,5.141,Pre
+13,2023-10-24,Forward,Concentric Impulse (Abs) / BM [N s] ,5.07,Pre
+14,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,5.808,Pre
+14,2023-09-20,Forward,Concentric Impulse (Abs) / BM [N s] ,5.909,Pre
+14,2023-09-26,Forward,Concentric Impulse (Abs) / BM [N s] ,5.92,Pre
+14,2023-09-27,Forward,Concentric Impulse (Abs) / BM [N s] ,5.604,Pre
+14,2023-10-03,Forward,Concentric Impulse (Abs) / BM [N s] ,5.845,Pre
+14,2023-10-04,Forward,Concentric Impulse (Abs) / BM [N s] ,5.187,Pre
+1,2023-09-19,Forward,Concentric Impulse [N s] ,277.7,Pre
+2,2023-09-19,Guard,Concentric Impulse [N s] ,246.8,Pre
+2,2023-09-26,Guard,Concentric Impulse [N s] ,252.2,Pre
+2,2023-09-27,Guard,Concentric Impulse [N s] ,248.5,Pre
+2,2023-10-03,Guard,Concentric Impulse [N s] ,251.4,Pre
+2,2023-10-04,Guard,Concentric Impulse [N s] ,250.1,Pre
+2,2023-10-10,Guard,Concentric Impulse [N s] ,252.8,Pre
+2,2023-10-11,Guard,Concentric Impulse [N s] ,245.9,Pre
+2,2023-10-17,Guard,Concentric Impulse [N s] ,249.6,Pre
+2,2023-10-24,Guard,Concentric Impulse [N s] ,257.2,Pre
+2,2023-10-25,Guard,Concentric Impulse [N s] ,245.5,Pre
+3,2023-09-19,Guard,Concentric Impulse [N s] ,220.6,Pre
+3,2023-09-20,Guard,Concentric Impulse [N s] ,220.2,Pre
+3,2023-10-03,Guard,Concentric Impulse [N s] ,218.1,Pre
+3,2023-10-04,Guard,Concentric Impulse [N s] ,218.1,Pre
+3,2023-10-11,Guard,Concentric Impulse [N s] ,228.2,Pre
+3,2023-10-24,Guard,Concentric Impulse [N s] ,227.8,Pre
+3,2023-10-25,Guard,Concentric Impulse [N s] ,221.1,Pre
+4,2023-09-19,Guard,Concentric Impulse [N s] ,188.4,Pre
+4,2023-09-20,Guard,Concentric Impulse [N s] ,187.6,Pre
+4,2023-09-26,Guard,Concentric Impulse [N s] ,175.3,Pre
+4,2023-09-27,Guard,Concentric Impulse [N s] ,175.7,Pre
+4,2023-10-03,Guard,Concentric Impulse [N s] ,185.7,Pre
+4,2023-10-04,Guard,Concentric Impulse [N s] ,187.3,Pre
+4,2023-10-10,Guard,Concentric Impulse [N s] ,185.2,Pre
+4,2023-10-11,Guard,Concentric Impulse [N s] ,184.9,Pre
+4,2023-10-17,Guard,Concentric Impulse [N s] ,180.6,Pre
+4,2023-10-24,Guard,Concentric Impulse [N s] ,188.7,Pre
+4,2023-10-25,Guard,Concentric Impulse [N s] ,186.5,Pre
+5,2023-09-19,Guard,Concentric Impulse [N s] ,216.4,Pre
+5,2023-09-20,Guard,Concentric Impulse [N s] ,225.3,Pre
+5,2023-09-26,Guard,Concentric Impulse [N s] ,229.0,Pre
+5,2023-09-27,Guard,Concentric Impulse [N s] ,222.4,Pre
+5,2023-10-04,Guard,Concentric Impulse [N s] ,221.0,Pre
+5,2023-10-10,Guard,Concentric Impulse [N s] ,219.6,Pre
+5,2023-10-24,Guard,Concentric Impulse [N s] ,224.3,Pre
+5,2023-10-25,Guard,Concentric Impulse [N s] ,227.5,Pre
+6,2023-09-19,Guard,Concentric Impulse [N s] ,232.0,Pre
+6,2023-09-20,Guard,Concentric Impulse [N s] ,239.0,Pre
+6,2023-09-26,Guard,Concentric Impulse [N s] ,231.8,Pre
+6,2023-09-27,Guard,Concentric Impulse [N s] ,228.5,Pre
+6,2023-10-03,Guard,Concentric Impulse [N s] ,231.3,Pre
+6,2023-10-04,Guard,Concentric Impulse [N s] ,235.6,Pre
+6,2023-10-10,Guard,Concentric Impulse [N s] ,219.1,Pre
+6,2023-10-11,Guard,Concentric Impulse [N s] ,216.0,Pre
+6,2023-10-25,Guard,Concentric Impulse [N s] ,233.4,Pre
+7,2023-09-19,Guard,Concentric Impulse [N s] ,195.2,Pre
+7,2023-09-27,Guard,Concentric Impulse [N s] ,199.4,Pre
+7,2023-10-04,Guard,Concentric Impulse [N s] ,201.3,Pre
+7,2023-10-11,Guard,Concentric Impulse [N s] ,208.9,Pre
+7,2023-10-18,Guard,Concentric Impulse [N s] ,207.5,Pre
+7,2023-10-24,Guard,Concentric Impulse [N s] ,221.2,Pre
+8,2023-09-19,Guard,Concentric Impulse [N s] ,213.9,Pre
+8,2023-09-20,Guard,Concentric Impulse [N s] ,192.4,Pre
+9,2023-09-19,Forward,Concentric Impulse [N s] ,213.4,Pre
+9,2023-09-27,Forward,Concentric Impulse [N s] ,216.4,Pre
+9,2023-10-03,Forward,Concentric Impulse [N s] ,214.4,Pre
+9,2023-10-04,Forward,Concentric Impulse [N s] ,209.3,Pre
+9,2023-10-17,Forward,Concentric Impulse [N s] ,223.4,Pre
+9,2023-10-18,Forward,Concentric Impulse [N s] ,215.0,Pre
+9,2023-10-18,Forward,Concentric Impulse [N s] ,215.0,Pre
+9,2023-10-25,Forward,Concentric Impulse [N s] ,220.7,Pre
+10,2023-09-19,Guard,Concentric Impulse [N s] ,208.0,Pre
+10,2023-09-20,Guard,Concentric Impulse [N s] ,210.3,Pre
+10,2023-09-26,Guard,Concentric Impulse [N s] ,199.7,Pre
+10,2023-09-27,Guard,Concentric Impulse [N s] ,217.8,Pre
+10,2023-10-03,Guard,Concentric Impulse [N s] ,210.8,Pre
+10,2023-10-04,Guard,Concentric Impulse [N s] ,198.1,Pre
+10,2023-10-17,Guard,Concentric Impulse [N s] ,196.4,Pre
+10,2023-10-18,Guard,Concentric Impulse [N s] ,196.6,Pre
+11,2023-09-19,Forward,Concentric Impulse [N s] ,274.9,Pre
+11,2023-09-20,Forward,Concentric Impulse [N s] ,277.9,Pre
+11,2023-09-27,Forward,Concentric Impulse [N s] ,277.0,Pre
+11,2023-10-03,Forward,Concentric Impulse [N s] ,277.5,Pre
+11,2023-10-04,Forward,Concentric Impulse [N s] ,281.7,Pre
+11,2023-10-24,Forward,Concentric Impulse [N s] ,271.7,Pre
+11,2023-10-25,Forward,Concentric Impulse [N s] ,270.5,Pre
+12,2023-09-19,Guard,Concentric Impulse [N s] ,204.3,Pre
+12,2023-09-20,Guard,Concentric Impulse [N s] ,205.1,Pre
+12,2023-09-26,Guard,Concentric Impulse [N s] ,205.7,Pre
+12,2023-09-27,Guard,Concentric Impulse [N s] ,204.2,Pre
+12,2023-10-03,Guard,Concentric Impulse [N s] ,214.5,Pre
+12,2023-10-04,Guard,Concentric Impulse [N s] ,201.0,Pre
+12,2023-10-10,Guard,Concentric Impulse [N s] ,212.3,Pre
+12,2023-10-17,Guard,Concentric Impulse [N s] ,206.6,Pre
+12,2023-10-18,Guard,Concentric Impulse [N s] ,205.3,Pre
+12,2023-10-24,Guard,Concentric Impulse [N s] ,208.5,Pre
+13,2023-09-19,Forward,Concentric Impulse [N s] ,267.8,Pre
+13,2023-10-04,Forward,Concentric Impulse [N s] ,275.4,Pre
+13,2023-10-10,Forward,Concentric Impulse [N s] ,289.5,Pre
+13,2023-10-11,Forward,Concentric Impulse [N s] ,258.8,Pre
+13,2023-10-17,Forward,Concentric Impulse [N s] ,261.8,Pre
+13,2023-10-24,Forward,Concentric Impulse [N s] ,274.9,Pre
+14,2023-09-19,Forward,Concentric Impulse [N s] ,265.1,Pre
+14,2023-09-20,Forward,Concentric Impulse [N s] ,267.6,Pre
+14,2023-09-26,Forward,Concentric Impulse [N s] ,275.4,Pre
+14,2023-09-27,Forward,Concentric Impulse [N s] ,256.0,Pre
+14,2023-10-03,Forward,Concentric Impulse [N s] ,275.0,Pre
+14,2023-10-04,Forward,Concentric Impulse [N s] ,234.6,Pre
+1,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,34.7,Pre
+2,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,18.4,Pre
+2,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,33.5,Pre
+2,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,41.1,Pre
+2,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,39.8,Pre
+2,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,28.6,Pre
+2,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,39.9,Pre
+2,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,42.7,Pre
+2,2023-10-17,Guard,Concentric RFD / BM [N/s/kg] ,40.3,Pre
+2,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,33.0,Pre
+2,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,48.4,Pre
+3,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,33.3,Pre
+3,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,48.8,Pre
+3,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,45.9,Pre
+3,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,48.0,Pre
+3,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,34.6,Pre
+3,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,18.7,Pre
+3,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,46.3,Pre
+4,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,12.3,Pre
+4,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,21.2,Pre
+4,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,32.0,Pre
+4,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,34.2,Pre
+4,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,31.3,Pre
+4,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,20.6,Pre
+4,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,30.5,Pre
+4,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,20.4,Pre
+4,2023-10-17,Guard,Concentric RFD / BM [N/s/kg] ,22.1,Pre
+4,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,38.0,Pre
+4,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,12.6,Pre
+5,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,31.9,Pre
+5,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,13.4,Pre
+5,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,25.8,Pre
+5,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,24.5,Pre
+5,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,25.1,Pre
+5,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,33.1,Pre
+5,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,3.3,Pre
+5,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,2.6,Pre
+6,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,20.7,Pre
+6,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,12.7,Pre
+6,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,12.6,Pre
+6,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,12.9,Pre
+6,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,11.1,Pre
+6,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,2.0,Pre
+6,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,20.7,Pre
+6,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,19.9,Pre
+6,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,14.9,Pre
+7,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,9.3,Pre
+7,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,16.9,Pre
+7,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,9.0,Pre
+7,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,10.3,Pre
+7,2023-10-18,Guard,Concentric RFD / BM [N/s/kg] ,12.9,Pre
+7,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,6.0,Pre
+8,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,34.3,Pre
+8,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,44.0,Pre
+9,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,7.3,Pre
+9,2023-09-27,Forward,Concentric RFD / BM [N/s/kg] ,0.0,Pre
+9,2023-10-03,Forward,Concentric RFD / BM [N/s/kg] ,7.3,Pre
+9,2023-10-04,Forward,Concentric RFD / BM [N/s/kg] ,7.3,Pre
+9,2023-10-17,Forward,Concentric RFD / BM [N/s/kg] ,0.0,Pre
+9,2023-10-18,Forward,Concentric RFD / BM [N/s/kg] ,5.7,Pre
+9,2023-10-18,Forward,Concentric RFD / BM [N/s/kg] ,5.7,Pre
+9,2023-10-25,Forward,Concentric RFD / BM [N/s/kg] ,7.3,Pre
+10,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,35.4,Pre
+10,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,23.7,Pre
+10,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,61.6,Pre
+10,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,28.0,Pre
+10,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,48.3,Pre
+10,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,53.3,Pre
+10,2023-10-17,Guard,Concentric RFD / BM [N/s/kg] ,48.0,Pre
+10,2023-10-18,Guard,Concentric RFD / BM [N/s/kg] ,41.2,Pre
+11,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,32.7,Pre
+11,2023-09-20,Forward,Concentric RFD / BM [N/s/kg] ,22.4,Pre
+11,2023-09-27,Forward,Concentric RFD / BM [N/s/kg] ,36.6,Pre
+11,2023-10-03,Forward,Concentric RFD / BM [N/s/kg] ,22.7,Pre
+11,2023-10-04,Forward,Concentric RFD / BM [N/s/kg] ,33.5,Pre
+11,2023-10-24,Forward,Concentric RFD / BM [N/s/kg] ,23.1,Pre
+11,2023-10-25,Forward,Concentric RFD / BM [N/s/kg] ,24.2,Pre
+12,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,54.3,Pre
+12,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,44.2,Pre
+12,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,55.5,Pre
+12,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,62.0,Pre
+12,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,57.0,Pre
+12,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,56.7,Pre
+12,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,42.0,Pre
+12,2023-10-17,Guard,Concentric RFD / BM [N/s/kg] ,40.9,Pre
+12,2023-10-18,Guard,Concentric RFD / BM [N/s/kg] ,51.3,Pre
+12,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,48.2,Pre
+13,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,2.1,Pre
+13,2023-10-04,Forward,Concentric RFD / BM [N/s/kg] ,10.5,Pre
+13,2023-10-10,Forward,Concentric RFD / BM [N/s/kg] ,0.0,Pre
+13,2023-10-11,Forward,Concentric RFD / BM [N/s/kg] ,0.9,Pre
+13,2023-10-17,Forward,Concentric RFD / BM [N/s/kg] ,12.0,Pre
+13,2023-10-24,Forward,Concentric RFD / BM [N/s/kg] ,10.6,Pre
+14,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,8.3,Pre
+14,2023-09-20,Forward,Concentric RFD / BM [N/s/kg] ,16.8,Pre
+14,2023-09-26,Forward,Concentric RFD / BM [N/s/kg] ,6.2,Pre
+14,2023-09-27,Forward,Concentric RFD / BM [N/s/kg] ,15.3,Pre
+14,2023-10-03,Forward,Concentric RFD / BM [N/s/kg] ,6.9,Pre
+14,2023-10-04,Forward,Concentric RFD / BM [N/s/kg] ,43.7,Pre
+1,2023-09-19,Forward,SRPE,840.0,Pre
+2,2023-09-19,Guard,SRPE,,Pre
+2,2023-09-26,Guard,SRPE,720.0,Pre
+2,2023-09-27,Guard,SRPE,450.0,Pre
+2,2023-10-03,Guard,SRPE,600.0,Pre
+2,2023-10-04,Guard,SRPE,450.0,Pre
+2,2023-10-10,Guard,SRPE,450.0,Pre
+2,2023-10-11,Guard,SRPE,720.0,Pre
+2,2023-10-17,Guard,SRPE,420.0,Pre
+2,2023-10-24,Guard,SRPE,240.0,Pre
+2,2023-10-25,Guard,SRPE,840.0,Pre
+3,2023-09-19,Guard,SRPE,735.0,Pre
+3,2023-09-20,Guard,SRPE,840.0,Pre
+3,2023-10-03,Guard,SRPE,840.0,Pre
+3,2023-10-04,Guard,SRPE,525.0,Pre
+3,2023-10-11,Guard,SRPE,960.0,Pre
+3,2023-10-24,Guard,SRPE,840.0,Pre
+3,2023-10-25,Guard,SRPE,1080.0,Pre
+4,2023-09-19,Guard,SRPE,735.0,Pre
+4,2023-09-20,Guard,SRPE,960.0,Pre
+4,2023-09-26,Guard,SRPE,,Pre
+4,2023-09-27,Guard,SRPE,525.0,Pre
+4,2023-10-03,Guard,SRPE,720.0,Pre
+4,2023-10-04,Guard,SRPE,450.0,Pre
+4,2023-10-10,Guard,SRPE,,Pre
+4,2023-10-11,Guard,SRPE,840.0,Pre
+4,2023-10-17,Guard,SRPE,720.0,Pre
+4,2023-10-24,Guard,SRPE,600.0,Pre
+4,2023-10-25,Guard,SRPE,720.0,Pre
+5,2023-09-19,Guard,SRPE,525.0,Pre
+5,2023-09-20,Guard,SRPE,600.0,Pre
+5,2023-09-26,Guard,SRPE,1200.0,Pre
+5,2023-09-27,Guard,SRPE,525.0,Pre
+5,2023-10-04,Guard,SRPE,300.0,Pre
+5,2023-10-10,Guard,SRPE,450.0,Pre
+5,2023-10-24,Guard,SRPE,720.0,Pre
+5,2023-10-25,Guard,SRPE,720.0,Pre
+6,2023-09-19,Guard,SRPE,525.0,Pre
+6,2023-09-20,Guard,SRPE,720.0,Pre
+6,2023-09-26,Guard,SRPE,480.0,Pre
+6,2023-09-27,Guard,SRPE,375.0,Pre
+6,2023-10-03,Guard,SRPE,840.0,Pre
+6,2023-10-04,Guard,SRPE,300.0,Pre
+6,2023-10-10,Guard,SRPE,450.0,Pre
+6,2023-10-11,Guard,SRPE,720.0,Pre
+6,2023-10-25,Guard,SRPE,720.0,Pre
+7,2023-09-19,Guard,SRPE,735.0,Pre
+7,2023-09-27,Guard,SRPE,450.0,Pre
+7,2023-10-04,Guard,SRPE,450.0,Pre
+7,2023-10-11,Guard,SRPE,840.0,Pre
+7,2023-10-18,Guard,SRPE,630.0,Pre
+7,2023-10-24,Guard,SRPE,840.0,Pre
+8,2023-09-19,Guard,SRPE,525.0,Pre
+8,2023-09-20,Guard,SRPE,720.0,Pre
+9,2023-09-19,Forward,SRPE,315.0,Pre
+9,2023-09-27,Forward,SRPE,225.0,Pre
+9,2023-10-03,Forward,SRPE,240.0,Pre
+9,2023-10-04,Forward,SRPE,150.0,Pre
+9,2023-10-17,Forward,SRPE,360.0,Pre
+9,2023-10-18,Forward,SRPE,180.0,Pre
+9,2023-10-18,Forward,SRPE,180.0,Pre
+9,2023-10-25,Forward,SRPE,360.0,Pre
+10,2023-09-19,Guard,SRPE,420.0,Pre
+10,2023-09-20,Guard,SRPE,600.0,Pre
+10,2023-09-26,Guard,SRPE,600.0,Pre
+10,2023-09-27,Guard,SRPE,450.0,Pre
+10,2023-10-03,Guard,SRPE,840.0,Pre
+10,2023-10-04,Guard,SRPE,300.0,Pre
+10,2023-10-17,Guard,SRPE,720.0,Pre
+10,2023-10-18,Guard,SRPE,450.0,Pre
+11,2023-09-19,Forward,SRPE,525.0,Pre
+11,2023-09-20,Forward,SRPE,720.0,Pre
+11,2023-09-27,Forward,SRPE,525.0,Pre
+11,2023-10-03,Forward,SRPE,720.0,Pre
+11,2023-10-04,Forward,SRPE,450.0,Pre
+11,2023-10-24,Forward,SRPE,720.0,Pre
+11,2023-10-25,Forward,SRPE,720.0,Pre
+12,2023-09-19,Guard,SRPE,315.0,Pre
+12,2023-09-20,Guard,SRPE,480.0,Pre
+12,2023-09-26,Guard,SRPE,360.0,Pre
+12,2023-09-27,Guard,SRPE,300.0,Pre
+12,2023-10-03,Guard,SRPE,480.0,Pre
+12,2023-10-04,Guard,SRPE,150.0,Pre
+12,2023-10-10,Guard,SRPE,360.0,Pre
+12,2023-10-17,Guard,SRPE,540.0,Pre
+12,2023-10-18,Guard,SRPE,450.0,Pre
+12,2023-10-24,Guard,SRPE,480.0,Pre
+13,2023-09-19,Forward,SRPE,525.0,Pre
+13,2023-10-04,Forward,SRPE,375.0,Pre
+13,2023-10-10,Forward,SRPE,450.0,Pre
+13,2023-10-11,Forward,SRPE,600.0,Pre
+13,2023-10-17,Forward,SRPE,720.0,Pre
+13,2023-10-24,Forward,SRPE,720.0,Pre
+14,2023-09-19,Forward,SRPE,315.0,Pre
+14,2023-09-20,Forward,SRPE,600.0,Pre
+14,2023-09-26,Forward,SRPE,480.0,Pre
+14,2023-09-27,Forward,SRPE,300.0,Pre
+14,2023-10-03,Forward,SRPE,360.0,Pre
+14,2023-10-04,Forward,SRPE,225.0,Pre
+1,2023-09-19,Forward,Impact Load Total (L+R),112136.34,Post
+2,2023-09-19,Guard,Impact Load Total (L+R),46356.17,Post
+2,2023-09-26,Guard,Impact Load Total (L+R),31049.4,Post
+2,2023-09-27,Guard,Impact Load Total (L+R),54405.41,Post
+2,2023-10-03,Guard,Impact Load Total (L+R),73150.02,Post
+2,2023-10-04,Guard,Impact Load Total (L+R),45080.46,Post
+2,2023-10-10,Guard,Impact Load Total (L+R),67694.93,Post
+2,2023-10-11,Guard,Impact Load Total (L+R),60081.43,Post
+2,2023-10-17,Guard,Impact Load Total (L+R),50983.77,Post
+2,2023-10-24,Guard,Impact Load Total (L+R),38928.57,Post
+2,2023-10-25,Guard,Impact Load Total (L+R),74977.08,Post
+3,2023-09-19,Guard,Impact Load Total (L+R),87054.47,Post
+3,2023-09-20,Guard,Impact Load Total (L+R),107436.27,Post
+3,2023-10-03,Guard,Impact Load Total (L+R),73721.01,Post
+3,2023-10-04,Guard,Impact Load Total (L+R),27914.51,Post
+3,2023-10-11,Guard,Impact Load Total (L+R),85774.68,Post
+3,2023-10-24,Guard,Impact Load Total (L+R),76998.36,Post
+3,2023-10-25,Guard,Impact Load Total (L+R),107156.66,Post
+4,2023-09-19,Guard,Impact Load Total (L+R),93208.1,Post
+4,2023-09-20,Guard,Impact Load Total (L+R),85338.12,Post
+4,2023-09-26,Guard,Impact Load Total (L+R),54838.23,Post
+4,2023-09-27,Guard,Impact Load Total (L+R),78690.65,Post
+4,2023-10-03,Guard,Impact Load Total (L+R),71888.98,Post
+4,2023-10-04,Guard,Impact Load Total (L+R),38846.48,Post
+4,2023-10-10,Guard,Impact Load Total (L+R),79502.21,Post
+4,2023-10-11,Guard,Impact Load Total (L+R),68366.25,Post
+4,2023-10-17,Guard,Impact Load Total (L+R),101742.39,Post
+4,2023-10-24,Guard,Impact Load Total (L+R),68779.05,Post
+4,2023-10-25,Guard,Impact Load Total (L+R),70079.67,Post
+5,2023-09-19,Guard,Impact Load Total (L+R),86994.32,Post
+5,2023-09-20,Guard,Impact Load Total (L+R),91442.2,Post
+5,2023-09-26,Guard,Impact Load Total (L+R),76557.51,Post
+5,2023-09-27,Guard,Impact Load Total (L+R),50722.47,Post
+5,2023-10-04,Guard,Impact Load Total (L+R),30279.87,Post
+5,2023-10-10,Guard,Impact Load Total (L+R),92843.53,Post
+5,2023-10-24,Guard,Impact Load Total (L+R),88391.27,Post
+5,2023-10-25,Guard,Impact Load Total (L+R),99217.84,Post
+6,2023-09-19,Guard,Impact Load Total (L+R),91082.64,Post
+6,2023-09-20,Guard,Impact Load Total (L+R),120083.71,Post
+6,2023-09-26,Guard,Impact Load Total (L+R),71023.84,Post
+6,2023-09-27,Guard,Impact Load Total (L+R),78355.9,Post
+6,2023-10-03,Guard,Impact Load Total (L+R),52184.81,Post
+6,2023-10-04,Guard,Impact Load Total (L+R),31839.16,Post
+6,2023-10-10,Guard,Impact Load Total (L+R),94906.43,Post
+6,2023-10-11,Guard,Impact Load Total (L+R),86797.15,Post
+6,2023-10-25,Guard,Impact Load Total (L+R),135144.47,Post
+7,2023-09-19,Guard,Impact Load Total (L+R),85400.92,Post
+7,2023-09-27,Guard,Impact Load Total (L+R),30938.41,Post
+7,2023-10-04,Guard,Impact Load Total (L+R),27896.7,Post
+7,2023-10-11,Guard,Impact Load Total (L+R),74260.73,Post
+7,2023-10-18,Guard,Impact Load Total (L+R),103427.28,Post
+7,2023-10-24,Guard,Impact Load Total (L+R),92105.03,Post
+8,2023-09-19,Guard,Impact Load Total (L+R),131772.22,Post
+8,2023-09-20,Guard,Impact Load Total (L+R),112203.27,Post
+9,2023-09-19,Forward,Impact Load Total (L+R),90657.98,Post
+9,2023-09-27,Forward,Impact Load Total (L+R),93806.72,Post
+9,2023-10-03,Forward,Impact Load Total (L+R),100562.37,Post
+9,2023-10-04,Forward,Impact Load Total (L+R),40753.63,Post
+9,2023-10-17,Forward,Impact Load Total (L+R),128694.6,Post
+9,2023-10-18,Forward,Impact Load Total (L+R),139110.55,Post
+9,2023-10-18,Forward,Impact Load Total (L+R),139110.55,Post
+9,2023-10-25,Forward,Impact Load Total (L+R),72515.8,Post
+10,2023-09-19,Guard,Impact Load Total (L+R),95542.01,Post
+10,2023-09-20,Guard,Impact Load Total (L+R),79973.75,Post
+10,2023-09-26,Guard,Impact Load Total (L+R),82329.05,Post
+10,2023-09-27,Guard,Impact Load Total (L+R),92973.26,Post
+10,2023-10-03,Guard,Impact Load Total (L+R),98554.06,Post
+10,2023-10-04,Guard,Impact Load Total (L+R),34248.69,Post
+10,2023-10-17,Guard,Impact Load Total (L+R),113702.59,Post
+10,2023-10-18,Guard,Impact Load Total (L+R),108491.67,Post
+11,2023-09-19,Forward,Impact Load Total (L+R),136593.97,Post
+11,2023-09-20,Forward,Impact Load Total (L+R),124365.7,Post
+11,2023-09-27,Forward,Impact Load Total (L+R),121885.49,Post
+11,2023-10-03,Forward,Impact Load Total (L+R),117144.51,Post
+11,2023-10-04,Forward,Impact Load Total (L+R),57890.61,Post
+11,2023-10-24,Forward,Impact Load Total (L+R),126523.57,Post
+11,2023-10-25,Forward,Impact Load Total (L+R),141230.53,Post
+12,2023-09-19,Guard,Impact Load Total (L+R),72445.34,Post
+12,2023-09-20,Guard,Impact Load Total (L+R),65962.58,Post
+12,2023-09-26,Guard,Impact Load Total (L+R),42460.06,Post
+12,2023-09-27,Guard,Impact Load Total (L+R),64969.01,Post
+12,2023-10-03,Guard,Impact Load Total (L+R),72397.1,Post
+12,2023-10-04,Guard,Impact Load Total (L+R),52053.77,Post
+12,2023-10-10,Guard,Impact Load Total (L+R),76335.44,Post
+12,2023-10-17,Guard,Impact Load Total (L+R),82330.8,Post
+12,2023-10-18,Guard,Impact Load Total (L+R),120182.24,Post
+12,2023-10-24,Guard,Impact Load Total (L+R),93316.73,Post
+13,2023-09-19,Forward,Impact Load Total (L+R),90116.81,Post
+13,2023-10-04,Forward,Impact Load Total (L+R),42962.39,Post
+13,2023-10-10,Forward,Impact Load Total (L+R),77502.36,Post
+13,2023-10-11,Forward,Impact Load Total (L+R),64675.74,Post
+13,2023-10-17,Forward,Impact Load Total (L+R),101206.69,Post
+13,2023-10-24,Forward,Impact Load Total (L+R),87781.32,Post
+14,2023-09-19,Forward,Impact Load Total (L+R),100571.84,Post
+14,2023-09-20,Forward,Impact Load Total (L+R),123808.85,Post
+14,2023-09-26,Forward,Impact Load Total (L+R),62430.89,Post
+14,2023-09-27,Forward,Impact Load Total (L+R),47710.88,Post
+14,2023-10-03,Forward,Impact Load Total (L+R),64007.05,Post
+14,2023-10-04,Forward,Impact Load Total (L+R),37031.31,Post
+1,2023-09-19,Forward,Average Intensity (L and R),13.64,Post
+2,2023-09-19,Guard,Average Intensity (L and R),9.99,Post
+2,2023-09-26,Guard,Average Intensity (L and R),8.88,Post
+2,2023-09-27,Guard,Average Intensity (L and R),9.35,Post
+2,2023-10-03,Guard,Average Intensity (L and R),10.6,Post
+2,2023-10-04,Guard,Average Intensity (L and R),10.16,Post
+2,2023-10-10,Guard,Average Intensity (L and R),9.55,Post
+2,2023-10-11,Guard,Average Intensity (L and R),9.79,Post
+2,2023-10-17,Guard,Average Intensity (L and R),8.24,Post
+2,2023-10-24,Guard,Average Intensity (L and R),9.07,Post
+2,2023-10-25,Guard,Average Intensity (L and R),9.86,Post
+3,2023-09-19,Guard,Average Intensity (L and R),10.68,Post
+3,2023-09-20,Guard,Average Intensity (L and R),13.42,Post
+3,2023-10-03,Guard,Average Intensity (L and R),11.74,Post
+3,2023-10-04,Guard,Average Intensity (L and R),11.15,Post
+3,2023-10-11,Guard,Average Intensity (L and R),13.3,Post
+3,2023-10-24,Guard,Average Intensity (L and R),11.23,Post
+3,2023-10-25,Guard,Average Intensity (L and R),11.02,Post
+4,2023-09-19,Guard,Average Intensity (L and R),10.99,Post
+4,2023-09-20,Guard,Average Intensity (L and R),11.64,Post
+4,2023-09-26,Guard,Average Intensity (L and R),8.91,Post
+4,2023-09-27,Guard,Average Intensity (L and R),11.59,Post
+4,2023-10-03,Guard,Average Intensity (L and R),10.52,Post
+4,2023-10-04,Guard,Average Intensity (L and R),9.82,Post
+4,2023-10-10,Guard,Average Intensity (L and R),9.81,Post
+4,2023-10-11,Guard,Average Intensity (L and R),10.86,Post
+4,2023-10-17,Guard,Average Intensity (L and R),11.25,Post
+4,2023-10-24,Guard,Average Intensity (L and R),10.52,Post
+4,2023-10-25,Guard,Average Intensity (L and R),11.18,Post
+5,2023-09-19,Guard,Average Intensity (L and R),11.06,Post
+5,2023-09-20,Guard,Average Intensity (L and R),11.42,Post
+5,2023-09-26,Guard,Average Intensity (L and R),10.92,Post
+5,2023-09-27,Guard,Average Intensity (L and R),9.81,Post
+5,2023-10-04,Guard,Average Intensity (L and R),9.78,Post
+5,2023-10-10,Guard,Average Intensity (L and R),10.81,Post
+5,2023-10-24,Guard,Average Intensity (L and R),10.24,Post
+5,2023-10-25,Guard,Average Intensity (L and R),9.5,Post
+6,2023-09-19,Guard,Average Intensity (L and R),11.51,Post
+6,2023-09-20,Guard,Average Intensity (L and R),13.67,Post
+6,2023-09-26,Guard,Average Intensity (L and R),11.45,Post
+6,2023-09-27,Guard,Average Intensity (L and R),13.51,Post
+6,2023-10-03,Guard,Average Intensity (L and R),13.09,Post
+6,2023-10-04,Guard,Average Intensity (L and R),12.18,Post
+6,2023-10-10,Guard,Average Intensity (L and R),12.22,Post
+6,2023-10-11,Guard,Average Intensity (L and R),14.75,Post
+6,2023-10-25,Guard,Average Intensity (L and R),17.92,Post
+7,2023-09-19,Guard,Average Intensity (L and R),11.8,Post
+7,2023-09-27,Guard,Average Intensity (L and R),9.28,Post
+7,2023-10-04,Guard,Average Intensity (L and R),9.41,Post
+7,2023-10-11,Guard,Average Intensity (L and R),12.09,Post
+7,2023-10-18,Guard,Average Intensity (L and R),11.93,Post
+7,2023-10-24,Guard,Average Intensity (L and R),11.52,Post
+8,2023-09-19,Guard,Average Intensity (L and R),17.38,Post
+8,2023-09-20,Guard,Average Intensity (L and R),15.49,Post
+9,2023-09-19,Forward,Average Intensity (L and R),11.65,Post
+9,2023-09-27,Forward,Average Intensity (L and R),14.92,Post
+9,2023-10-03,Forward,Average Intensity (L and R),14.25,Post
+9,2023-10-04,Forward,Average Intensity (L and R),11.41,Post
+9,2023-10-17,Forward,Average Intensity (L and R),14.22,Post
+9,2023-10-18,Forward,Average Intensity (L and R),15.72,Post
+9,2023-10-18,Forward,Average Intensity (L and R),15.72,Post
+9,2023-10-25,Forward,Average Intensity (L and R),10.64,Post
+10,2023-09-19,Guard,Average Intensity (L and R),11.71,Post
+10,2023-09-20,Guard,Average Intensity (L and R),11.82,Post
+10,2023-09-26,Guard,Average Intensity (L and R),11.96,Post
+10,2023-09-27,Guard,Average Intensity (L and R),14.45,Post
+10,2023-10-03,Guard,Average Intensity (L and R),13.85,Post
+10,2023-10-04,Guard,Average Intensity (L and R),11.14,Post
+10,2023-10-17,Guard,Average Intensity (L and R),13.24,Post
+10,2023-10-18,Guard,Average Intensity (L and R),12.6,Post
+11,2023-09-19,Forward,Average Intensity (L and R),16.05,Post
+11,2023-09-20,Forward,Average Intensity (L and R),17.13,Post
+11,2023-09-27,Forward,Average Intensity (L and R),17.94,Post
+11,2023-10-03,Forward,Average Intensity (L and R),16.45,Post
+11,2023-10-04,Forward,Average Intensity (L and R),17.02,Post
+11,2023-10-24,Forward,Average Intensity (L and R),15.93,Post
+11,2023-10-25,Forward,Average Intensity (L and R),16.41,Post
+12,2023-09-19,Guard,Average Intensity (L and R),11.36,Post
+12,2023-09-20,Guard,Average Intensity (L and R),12.88,Post
+12,2023-09-26,Guard,Average Intensity (L and R),9.97,Post
+12,2023-09-27,Guard,Average Intensity (L and R),13.73,Post
+12,2023-10-03,Guard,Average Intensity (L and R),12.13,Post
+12,2023-10-04,Guard,Average Intensity (L and R),12.59,Post
+12,2023-10-10,Guard,Average Intensity (L and R),10.91,Post
+12,2023-10-17,Guard,Average Intensity (L and R),10.04,Post
+12,2023-10-18,Guard,Average Intensity (L and R),14.29,Post
+12,2023-10-24,Guard,Average Intensity (L and R),14.02,Post
+13,2023-09-19,Forward,Average Intensity (L and R),11.79,Post
+13,2023-10-04,Forward,Average Intensity (L and R),10.96,Post
+13,2023-10-10,Forward,Average Intensity (L and R),10.41,Post
+13,2023-10-11,Forward,Average Intensity (L and R),10.99,Post
+13,2023-10-17,Forward,Average Intensity (L and R),10.84,Post
+13,2023-10-24,Forward,Average Intensity (L and R),12.13,Post
+14,2023-09-19,Forward,Average Intensity (L and R),13.13,Post
+14,2023-09-20,Forward,Average Intensity (L and R),19.66,Post
+14,2023-09-26,Forward,Average Intensity (L and R),11.08,Post
+14,2023-09-27,Forward,Average Intensity (L and R),11.17,Post
+14,2023-10-03,Forward,Average Intensity (L and R),10.69,Post
+14,2023-10-04,Forward,Average Intensity (L and R),11.18,Post
+1,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,8.6,Post
+2,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.7,Post
+2,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.3,Post
+2,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.8,Post
+2,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.3,Post
+2,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.7,Post
+2,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.9,Post
+2,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,25.2,Post
+2,2023-10-17,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.1,Post
+2,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.4,Post
+2,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.5,Post
+3,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.2,Post
+3,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.2,Post
+3,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.2,Post
+3,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.4,Post
+3,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.3,Post
+3,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.6,Post
+3,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.1,Post
+4,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.7,Post
+4,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.5,Post
+4,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.7,Post
+4,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.9,Post
+4,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.5,Post
+4,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.3,Post
+4,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.9,Post
+4,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,19.6,Post
+4,2023-10-17,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.1,Post
+4,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.1,Post
+4,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.0,Post
+5,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.9,Post
+5,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.5,Post
+5,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.9,Post
+5,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.3,Post
+5,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.6,Post
+5,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.3,Post
+5,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.0,Post
+5,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.6,Post
+6,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.1,Post
+6,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.6,Post
+6,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.2,Post
+6,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.5,Post
+6,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.1,Post
+6,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.5,Post
+6,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.7,Post
+6,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.0,Post
+6,2023-10-25,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.8,Post
+7,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.0,Post
+7,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.2,Post
+7,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.1,Post
+7,2023-10-11,Guard,Jump Height (Imp-Mom) in Inches [in] ,26.2,Post
+7,2023-10-18,Guard,Jump Height (Imp-Mom) in Inches [in] ,17.5,Post
+7,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,18.1,Post
+8,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.7,Post
+8,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,10.6,Post
+9,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,13.1,Post
+9,2023-09-27,Forward,Jump Height (Imp-Mom) in Inches [in] ,15.0,Post
+9,2023-10-03,Forward,Jump Height (Imp-Mom) in Inches [in] ,14.0,Post
+9,2023-10-04,Forward,Jump Height (Imp-Mom) in Inches [in] ,13.2,Post
+9,2023-10-17,Forward,Jump Height (Imp-Mom) in Inches [in] ,13.5,Post
+9,2023-10-18,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.4,Post
+9,2023-10-18,Forward,Jump Height (Imp-Mom) in Inches [in] ,14.7,Post
+9,2023-10-25,Forward,Jump Height (Imp-Mom) in Inches [in] ,12.5,Post
+10,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,11.1,Post
+10,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,10.8,Post
+10,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.5,Post
+10,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.4,Post
+10,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.1,Post
+10,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.5,Post
+10,2023-10-17,Guard,Jump Height (Imp-Mom) in Inches [in] ,10.9,Post
+10,2023-10-18,Guard,Jump Height (Imp-Mom) in Inches [in] ,11.3,Post
+11,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,15.3,Post
+11,2023-09-20,Forward,Jump Height (Imp-Mom) in Inches [in] ,12.1,Post
+11,2023-09-27,Forward,Jump Height (Imp-Mom) in Inches [in] ,15.9,Post
+11,2023-10-03,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.3,Post
+11,2023-10-04,Forward,Jump Height (Imp-Mom) in Inches [in] ,14.9,Post
+11,2023-10-24,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.2,Post
+11,2023-10-25,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.3,Post
+12,2023-09-19,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.0,Post
+12,2023-09-20,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.1,Post
+12,2023-09-26,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.6,Post
+12,2023-09-27,Guard,Jump Height (Imp-Mom) in Inches [in] ,16.0,Post
+12,2023-10-03,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.9,Post
+12,2023-10-04,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.0,Post
+12,2023-10-10,Guard,Jump Height (Imp-Mom) in Inches [in] ,12.7,Post
+12,2023-10-17,Guard,Jump Height (Imp-Mom) in Inches [in] ,13.2,Post
+12,2023-10-18,Guard,Jump Height (Imp-Mom) in Inches [in] ,14.2,Post
+12,2023-10-24,Guard,Jump Height (Imp-Mom) in Inches [in] ,15.3,Post
+13,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,10.4,Post
+13,2023-10-04,Forward,Jump Height (Imp-Mom) in Inches [in] ,10.4,Post
+13,2023-10-10,Forward,Jump Height (Imp-Mom) in Inches [in] ,9.7,Post
+13,2023-10-11,Forward,Jump Height (Imp-Mom) in Inches [in] ,9.1,Post
+13,2023-10-17,Forward,Jump Height (Imp-Mom) in Inches [in] ,9.7,Post
+13,2023-10-24,Forward,Jump Height (Imp-Mom) in Inches [in] ,11.5,Post
+14,2023-09-19,Forward,Jump Height (Imp-Mom) in Inches [in] ,16.3,Post
+14,2023-09-20,Forward,Jump Height (Imp-Mom) in Inches [in] ,15.3,Post
+14,2023-09-26,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.0,Post
+14,2023-09-27,Forward,Jump Height (Imp-Mom) in Inches [in] ,15.2,Post
+14,2023-10-03,Forward,Jump Height (Imp-Mom) in Inches [in] ,17.6,Post
+14,2023-10-04,Forward,Jump Height (Imp-Mom) in Inches [in] ,13.4,Post
+1,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.27,Post
+2,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.61,Post
+2,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Post
+2,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Post
+2,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.49,Post
+2,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.58,Post
+2,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.56,Post
+2,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.73,Post
+2,2023-10-17,Guard,RSI-modified (Imp-Mom) [m/s] ,0.55,Post
+2,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.43,Post
+2,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.53,Post
+3,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.46,Post
+3,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.43,Post
+3,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.45,Post
+3,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Post
+3,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.53,Post
+3,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.56,Post
+3,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.64,Post
+4,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.72,Post
+4,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.71,Post
+4,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.7,Post
+4,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.74,Post
+4,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.66,Post
+4,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.57,Post
+4,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.72,Post
+4,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.78,Post
+4,2023-10-17,Guard,RSI-modified (Imp-Mom) [m/s] ,0.59,Post
+4,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.7,Post
+4,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.64,Post
+5,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.41,Post
+5,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.46,Post
+5,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.36,Post
+5,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.36,Post
+5,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.4,Post
+5,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.48,Post
+5,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.34,Post
+5,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.32,Post
+6,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Post
+6,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Post
+6,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.55,Post
+6,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.6,Post
+6,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Post
+6,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.53,Post
+6,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.43,Post
+6,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Post
+6,2023-10-25,Guard,RSI-modified (Imp-Mom) [m/s] ,0.56,Post
+7,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Post
+7,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.48,Post
+7,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Post
+7,2023-10-11,Guard,RSI-modified (Imp-Mom) [m/s] ,0.79,Post
+7,2023-10-18,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Post
+7,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.61,Post
+8,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.48,Post
+8,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.28,Post
+9,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.47,Post
+9,2023-09-27,Forward,RSI-modified (Imp-Mom) [m/s] ,0.52,Post
+9,2023-10-03,Forward,RSI-modified (Imp-Mom) [m/s] ,0.52,Post
+9,2023-10-04,Forward,RSI-modified (Imp-Mom) [m/s] ,0.51,Post
+9,2023-10-17,Forward,RSI-modified (Imp-Mom) [m/s] ,0.41,Post
+9,2023-10-18,Forward,RSI-modified (Imp-Mom) [m/s] ,0.57,Post
+9,2023-10-18,Forward,RSI-modified (Imp-Mom) [m/s] ,0.48,Post
+9,2023-10-25,Forward,RSI-modified (Imp-Mom) [m/s] ,0.44,Post
+10,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.34,Post
+10,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.34,Post
+10,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.43,Post
+10,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.4,Post
+10,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.37,Post
+10,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.4,Post
+10,2023-10-17,Guard,RSI-modified (Imp-Mom) [m/s] ,0.35,Post
+10,2023-10-18,Guard,RSI-modified (Imp-Mom) [m/s] ,0.35,Post
+11,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.47,Post
+11,2023-09-20,Forward,RSI-modified (Imp-Mom) [m/s] ,0.34,Post
+11,2023-09-27,Forward,RSI-modified (Imp-Mom) [m/s] ,0.47,Post
+11,2023-10-03,Forward,RSI-modified (Imp-Mom) [m/s] ,0.47,Post
+11,2023-10-04,Forward,RSI-modified (Imp-Mom) [m/s] ,0.4,Post
+11,2023-10-24,Forward,RSI-modified (Imp-Mom) [m/s] ,0.53,Post
+11,2023-10-25,Forward,RSI-modified (Imp-Mom) [m/s] ,0.53,Post
+12,2023-09-19,Guard,RSI-modified (Imp-Mom) [m/s] ,0.55,Post
+12,2023-09-20,Guard,RSI-modified (Imp-Mom) [m/s] ,0.54,Post
+12,2023-09-26,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Post
+12,2023-09-27,Guard,RSI-modified (Imp-Mom) [m/s] ,0.6,Post
+12,2023-10-03,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Post
+12,2023-10-04,Guard,RSI-modified (Imp-Mom) [m/s] ,0.59,Post
+12,2023-10-10,Guard,RSI-modified (Imp-Mom) [m/s] ,0.41,Post
+12,2023-10-17,Guard,RSI-modified (Imp-Mom) [m/s] ,0.42,Post
+12,2023-10-18,Guard,RSI-modified (Imp-Mom) [m/s] ,0.51,Post
+12,2023-10-24,Guard,RSI-modified (Imp-Mom) [m/s] ,0.52,Post
+13,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.31,Post
+13,2023-10-04,Forward,RSI-modified (Imp-Mom) [m/s] ,0.35,Post
+13,2023-10-10,Forward,RSI-modified (Imp-Mom) [m/s] ,0.31,Post
+13,2023-10-11,Forward,RSI-modified (Imp-Mom) [m/s] ,0.26,Post
+13,2023-10-17,Forward,RSI-modified (Imp-Mom) [m/s] ,0.29,Post
+13,2023-10-24,Forward,RSI-modified (Imp-Mom) [m/s] ,0.38,Post
+14,2023-09-19,Forward,RSI-modified (Imp-Mom) [m/s] ,0.5,Post
+14,2023-09-20,Forward,RSI-modified (Imp-Mom) [m/s] ,0.48,Post
+14,2023-09-26,Forward,RSI-modified (Imp-Mom) [m/s] ,0.52,Post
+14,2023-09-27,Forward,RSI-modified (Imp-Mom) [m/s] ,0.49,Post
+14,2023-10-03,Forward,RSI-modified (Imp-Mom) [m/s] ,0.54,Post
+14,2023-10-04,Forward,RSI-modified (Imp-Mom) [m/s] ,0.43,Post
+1,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,48.0,Post
+2,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,49.0,Post
+2,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,30.0,Post
+2,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,31.0,Post
+2,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,24.0,Post
+2,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,41.0,Post
+2,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,40.0,Post
+2,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,42.0,Post
+2,2023-10-17,Guard,Eccentric Braking RFD / BM [N/s/kg] ,39.0,Post
+2,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,33.0,Post
+2,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,33.0,Post
+3,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,51.0,Post
+3,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,45.0,Post
+3,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,48.0,Post
+3,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,57.0,Post
+3,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,62.0,Post
+3,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,70.0,Post
+3,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,92.0,Post
+4,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,102.0,Post
+4,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,108.0,Post
+4,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,83.0,Post
+4,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,114.0,Post
+4,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,75.0,Post
+4,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,69.0,Post
+4,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,112.0,Post
+4,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,121.0,Post
+4,2023-10-17,Guard,Eccentric Braking RFD / BM [N/s/kg] ,69.0,Post
+4,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,115.0,Post
+4,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,80.0,Post
+5,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,42.0,Post
+5,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,55.0,Post
+5,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,39.0,Post
+5,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,42.0,Post
+5,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,50.0,Post
+5,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,61.0,Post
+5,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,36.0,Post
+5,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,30.0,Post
+6,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,61.0,Post
+6,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,62.0,Post
+6,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,58.0,Post
+6,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,65.0,Post
+6,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,62.0,Post
+6,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,61.0,Post
+6,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,38.0,Post
+6,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,50.0,Post
+6,2023-10-25,Guard,Eccentric Braking RFD / BM [N/s/kg] ,59.0,Post
+7,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,56.0,Post
+7,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,50.0,Post
+7,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,59.0,Post
+7,2023-10-11,Guard,Eccentric Braking RFD / BM [N/s/kg] ,57.0,Post
+7,2023-10-18,Guard,Eccentric Braking RFD / BM [N/s/kg] ,52.0,Post
+7,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,63.0,Post
+8,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,50.0,Post
+8,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,28.0,Post
+9,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,79.0,Post
+9,2023-09-27,Forward,Eccentric Braking RFD / BM [N/s/kg] ,86.0,Post
+9,2023-10-03,Forward,Eccentric Braking RFD / BM [N/s/kg] ,91.0,Post
+9,2023-10-04,Forward,Eccentric Braking RFD / BM [N/s/kg] ,89.0,Post
+9,2023-10-17,Forward,Eccentric Braking RFD / BM [N/s/kg] ,69.0,Post
+9,2023-10-18,Forward,Eccentric Braking RFD / BM [N/s/kg] ,56.0,Post
+9,2023-10-18,Forward,Eccentric Braking RFD / BM [N/s/kg] ,76.0,Post
+9,2023-10-25,Forward,Eccentric Braking RFD / BM [N/s/kg] ,74.0,Post
+10,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,45.0,Post
+10,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,41.0,Post
+10,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,52.0,Post
+10,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,47.0,Post
+10,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,39.0,Post
+10,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,38.0,Post
+10,2023-10-17,Guard,Eccentric Braking RFD / BM [N/s/kg] ,30.0,Post
+10,2023-10-18,Guard,Eccentric Braking RFD / BM [N/s/kg] ,44.0,Post
+11,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,47.0,Post
+11,2023-09-20,Forward,Eccentric Braking RFD / BM [N/s/kg] ,34.0,Post
+11,2023-09-27,Forward,Eccentric Braking RFD / BM [N/s/kg] ,49.0,Post
+11,2023-10-03,Forward,Eccentric Braking RFD / BM [N/s/kg] ,40.0,Post
+11,2023-10-04,Forward,Eccentric Braking RFD / BM [N/s/kg] ,35.0,Post
+11,2023-10-24,Forward,Eccentric Braking RFD / BM [N/s/kg] ,52.0,Post
+11,2023-10-25,Forward,Eccentric Braking RFD / BM [N/s/kg] ,55.0,Post
+12,2023-09-19,Guard,Eccentric Braking RFD / BM [N/s/kg] ,85.0,Post
+12,2023-09-20,Guard,Eccentric Braking RFD / BM [N/s/kg] ,95.0,Post
+12,2023-09-26,Guard,Eccentric Braking RFD / BM [N/s/kg] ,74.0,Post
+12,2023-09-27,Guard,Eccentric Braking RFD / BM [N/s/kg] ,102.0,Post
+12,2023-10-03,Guard,Eccentric Braking RFD / BM [N/s/kg] ,77.0,Post
+12,2023-10-04,Guard,Eccentric Braking RFD / BM [N/s/kg] ,107.0,Post
+12,2023-10-10,Guard,Eccentric Braking RFD / BM [N/s/kg] ,65.0,Post
+12,2023-10-17,Guard,Eccentric Braking RFD / BM [N/s/kg] ,41.0,Post
+12,2023-10-18,Guard,Eccentric Braking RFD / BM [N/s/kg] ,61.0,Post
+12,2023-10-24,Guard,Eccentric Braking RFD / BM [N/s/kg] ,58.0,Post
+13,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,43.0,Post
+13,2023-10-04,Forward,Eccentric Braking RFD / BM [N/s/kg] ,77.0,Post
+13,2023-10-10,Forward,Eccentric Braking RFD / BM [N/s/kg] ,64.0,Post
+13,2023-10-11,Forward,Eccentric Braking RFD / BM [N/s/kg] ,45.0,Post
+13,2023-10-17,Forward,Eccentric Braking RFD / BM [N/s/kg] ,45.0,Post
+13,2023-10-24,Forward,Eccentric Braking RFD / BM [N/s/kg] ,61.0,Post
+14,2023-09-19,Forward,Eccentric Braking RFD / BM [N/s/kg] ,59.0,Post
+14,2023-09-20,Forward,Eccentric Braking RFD / BM [N/s/kg] ,57.0,Post
+14,2023-09-26,Forward,Eccentric Braking RFD / BM [N/s/kg] ,63.0,Post
+14,2023-09-27,Forward,Eccentric Braking RFD / BM [N/s/kg] ,58.0,Post
+14,2023-10-03,Forward,Eccentric Braking RFD / BM [N/s/kg] ,69.0,Post
+14,2023-10-04,Forward,Eccentric Braking RFD / BM [N/s/kg] ,50.0,Post
+1,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,51.4,Post
+2,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,34.9,Post
+2,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,35.0,Post
+2,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,33.5,Post
+2,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,32.6,Post
+2,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,34.3,Post
+2,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,36.1,Post
+2,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,38.4,Post
+2,2023-10-17,Guard,Eccentric Braking Impulse [N s] ,39.4,Post
+2,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,34.8,Post
+2,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,36.2,Post
+3,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,41.5,Post
+3,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,33.2,Post
+3,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,42.7,Post
+3,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,41.6,Post
+3,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,43.0,Post
+3,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,42.1,Post
+3,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,49.1,Post
+4,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,49.4,Post
+4,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,48.4,Post
+4,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,37.3,Post
+4,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,52.8,Post
+4,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,43.9,Post
+4,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,36.1,Post
+4,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,53.3,Post
+4,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,50.7,Post
+4,2023-10-17,Guard,Eccentric Braking Impulse [N s] ,37.6,Post
+4,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,50.3,Post
+4,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,38.5,Post
+5,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,50.8,Post
+5,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,58.0,Post
+5,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,63.9,Post
+5,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,53.0,Post
+5,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,55.5,Post
+5,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,70.5,Post
+5,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,48.8,Post
+5,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,48.8,Post
+6,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,52.6,Post
+6,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,55.5,Post
+6,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,50.7,Post
+6,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,49.8,Post
+6,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,52.5,Post
+6,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,58.2,Post
+6,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,38.3,Post
+6,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,43.0,Post
+6,2023-10-25,Guard,Eccentric Braking Impulse [N s] ,50.6,Post
+7,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,48.6,Post
+7,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,46.6,Post
+7,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,55.6,Post
+7,2023-10-11,Guard,Eccentric Braking Impulse [N s] ,42.0,Post
+7,2023-10-18,Guard,Eccentric Braking Impulse [N s] ,49.5,Post
+7,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,51.8,Post
+8,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,40.2,Post
+8,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,37.7,Post
+9,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,64.2,Post
+9,2023-09-27,Forward,Eccentric Braking Impulse [N s] ,82.3,Post
+9,2023-10-03,Forward,Eccentric Braking Impulse [N s] ,77.1,Post
+9,2023-10-04,Forward,Eccentric Braking Impulse [N s] ,59.6,Post
+9,2023-10-17,Forward,Eccentric Braking Impulse [N s] ,71.7,Post
+9,2023-10-18,Forward,Eccentric Braking Impulse [N s] ,49.4,Post
+9,2023-10-18,Forward,Eccentric Braking Impulse [N s] ,65.3,Post
+9,2023-10-25,Forward,Eccentric Braking Impulse [N s] ,48.2,Post
+10,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,47.0,Post
+10,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,45.3,Post
+10,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,45.5,Post
+10,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,44.5,Post
+10,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,41.8,Post
+10,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,34.9,Post
+10,2023-10-17,Guard,Eccentric Braking Impulse [N s] ,30.5,Post
+10,2023-10-18,Guard,Eccentric Braking Impulse [N s] ,48.9,Post
+11,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,67.5,Post
+11,2023-09-20,Forward,Eccentric Braking Impulse [N s] ,52.1,Post
+11,2023-09-27,Forward,Eccentric Braking Impulse [N s] ,60.6,Post
+11,2023-10-03,Forward,Eccentric Braking Impulse [N s] ,60.3,Post
+11,2023-10-04,Forward,Eccentric Braking Impulse [N s] ,56.1,Post
+11,2023-10-24,Forward,Eccentric Braking Impulse [N s] ,68.6,Post
+11,2023-10-25,Forward,Eccentric Braking Impulse [N s] ,62.1,Post
+12,2023-09-19,Guard,Eccentric Braking Impulse [N s] ,47.7,Post
+12,2023-09-20,Guard,Eccentric Braking Impulse [N s] ,43.5,Post
+12,2023-09-26,Guard,Eccentric Braking Impulse [N s] ,36.4,Post
+12,2023-09-27,Guard,Eccentric Braking Impulse [N s] ,46.2,Post
+12,2023-10-03,Guard,Eccentric Braking Impulse [N s] ,43.5,Post
+12,2023-10-04,Guard,Eccentric Braking Impulse [N s] ,45.1,Post
+12,2023-10-10,Guard,Eccentric Braking Impulse [N s] ,39.9,Post
+12,2023-10-17,Guard,Eccentric Braking Impulse [N s] ,30.4,Post
+12,2023-10-18,Guard,Eccentric Braking Impulse [N s] ,38.7,Post
+12,2023-10-24,Guard,Eccentric Braking Impulse [N s] ,38.1,Post
+13,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,55.0,Post
+13,2023-10-04,Forward,Eccentric Braking Impulse [N s] ,98.6,Post
+13,2023-10-10,Forward,Eccentric Braking Impulse [N s] ,107.1,Post
+13,2023-10-11,Forward,Eccentric Braking Impulse [N s] ,75.3,Post
+13,2023-10-17,Forward,Eccentric Braking Impulse [N s] ,73.1,Post
+13,2023-10-24,Forward,Eccentric Braking Impulse [N s] ,77.6,Post
+14,2023-09-19,Forward,Eccentric Braking Impulse [N s] ,62.8,Post
+14,2023-09-20,Forward,Eccentric Braking Impulse [N s] ,62.7,Post
+14,2023-09-26,Forward,Eccentric Braking Impulse [N s] ,61.9,Post
+14,2023-09-27,Forward,Eccentric Braking Impulse [N s] ,57.8,Post
+14,2023-10-03,Forward,Eccentric Braking Impulse [N s] ,73.0,Post
+14,2023-10-04,Forward,Eccentric Braking Impulse [N s] ,55.7,Post
+1,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,18.9,Post
+2,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,22.71,Post
+2,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,18.1,Post
+2,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,18.97,Post
+2,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,17.16,Post
+2,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,21.19,Post
+2,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,20.11,Post
+2,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,21.1,Post
+2,2023-10-17,Guard,Force at Zero Velocity / BM [N/kg] ,20.13,Post
+2,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,18.13,Post
+2,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,18.96,Post
+3,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,18.95,Post
+3,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,17.43,Post
+3,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,17.95,Post
+3,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,19.59,Post
+3,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,20.18,Post
+3,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,22.05,Post
+3,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,24.59,Post
+4,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,25.36,Post
+4,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,26.31,Post
+4,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,25.46,Post
+4,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,27.97,Post
+4,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,23.21,Post
+4,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,22.35,Post
+4,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,27.55,Post
+4,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,28.23,Post
+4,2023-10-17,Guard,Force at Zero Velocity / BM [N/kg] ,22.71,Post
+4,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,27.96,Post
+4,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,24.12,Post
+5,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,18.46,Post
+5,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,20.22,Post
+5,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,17.35,Post
+5,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,18.22,Post
+5,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,19.11,Post
+5,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,21.32,Post
+5,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,17.31,Post
+5,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,16.71,Post
+6,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,22.96,Post
+6,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,22.4,Post
+6,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,21.7,Post
+6,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,23.23,Post
+6,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,22.18,Post
+6,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,22.45,Post
+6,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,17.88,Post
+6,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,19.48,Post
+6,2023-10-25,Guard,Force at Zero Velocity / BM [N/kg] ,21.49,Post
+7,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,21.38,Post
+7,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,20.45,Post
+7,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,21.11,Post
+7,2023-10-11,Guard,Force at Zero Velocity / BM [N/kg] ,22.72,Post
+7,2023-10-18,Guard,Force at Zero Velocity / BM [N/kg] ,20.52,Post
+7,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,21.85,Post
+8,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,20.17,Post
+8,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,16.24,Post
+9,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,22.69,Post
+9,2023-09-27,Forward,Force at Zero Velocity / BM [N/kg] ,23.83,Post
+9,2023-10-03,Forward,Force at Zero Velocity / BM [N/kg] ,22.72,Post
+9,2023-10-04,Forward,Force at Zero Velocity / BM [N/kg] ,23.22,Post
+9,2023-10-17,Forward,Force at Zero Velocity / BM [N/kg] ,21.43,Post
+9,2023-10-18,Forward,Force at Zero Velocity / BM [N/kg] ,20.77,Post
+9,2023-10-18,Forward,Force at Zero Velocity / BM [N/kg] ,22.69,Post
+9,2023-10-25,Forward,Force at Zero Velocity / BM [N/kg] ,22.77,Post
+10,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,17.86,Post
+10,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,18.01,Post
+10,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,20.08,Post
+10,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,19.62,Post
+10,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,18.02,Post
+10,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,17.8,Post
+10,2023-10-17,Guard,Force at Zero Velocity / BM [N/kg] ,16.49,Post
+10,2023-10-18,Guard,Force at Zero Velocity / BM [N/kg] ,18.37,Post
+11,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,18.3,Post
+11,2023-09-20,Forward,Force at Zero Velocity / BM [N/kg] ,17.06,Post
+11,2023-09-27,Forward,Force at Zero Velocity / BM [N/kg] ,20.13,Post
+11,2023-10-03,Forward,Force at Zero Velocity / BM [N/kg] ,19.39,Post
+11,2023-10-04,Forward,Force at Zero Velocity / BM [N/kg] ,17.93,Post
+11,2023-10-24,Forward,Force at Zero Velocity / BM [N/kg] ,19.46,Post
+11,2023-10-25,Forward,Force at Zero Velocity / BM [N/kg] ,20.75,Post
+12,2023-09-19,Guard,Force at Zero Velocity / BM [N/kg] ,23.37,Post
+12,2023-09-20,Guard,Force at Zero Velocity / BM [N/kg] ,25.05,Post
+12,2023-09-26,Guard,Force at Zero Velocity / BM [N/kg] ,24.53,Post
+12,2023-09-27,Guard,Force at Zero Velocity / BM [N/kg] ,25.67,Post
+12,2023-10-03,Guard,Force at Zero Velocity / BM [N/kg] ,23.33,Post
+12,2023-10-04,Guard,Force at Zero Velocity / BM [N/kg] ,26.6,Post
+12,2023-10-10,Guard,Force at Zero Velocity / BM [N/kg] ,21.07,Post
+12,2023-10-17,Guard,Force at Zero Velocity / BM [N/kg] ,20.07,Post
+12,2023-10-18,Guard,Force at Zero Velocity / BM [N/kg] ,20.86,Post
+12,2023-10-24,Guard,Force at Zero Velocity / BM [N/kg] ,21.61,Post
+13,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,19.82,Post
+13,2023-10-04,Forward,Force at Zero Velocity / BM [N/kg] ,23.3,Post
+13,2023-10-10,Forward,Force at Zero Velocity / BM [N/kg] ,20.6,Post
+13,2023-10-11,Forward,Force at Zero Velocity / BM [N/kg] ,19.13,Post
+13,2023-10-17,Forward,Force at Zero Velocity / BM [N/kg] ,18.48,Post
+13,2023-10-24,Forward,Force at Zero Velocity / BM [N/kg] ,21.55,Post
+14,2023-09-19,Forward,Force at Zero Velocity / BM [N/kg] ,22.0,Post
+14,2023-09-20,Forward,Force at Zero Velocity / BM [N/kg] ,21.0,Post
+14,2023-09-26,Forward,Force at Zero Velocity / BM [N/kg] ,22.52,Post
+14,2023-09-27,Forward,Force at Zero Velocity / BM [N/kg] ,20.78,Post
+14,2023-10-03,Forward,Force at Zero Velocity / BM [N/kg] ,23.71,Post
+14,2023-10-04,Forward,Force at Zero Velocity / BM [N/kg] ,19.59,Post
+1,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,4.422,Post
+2,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.486,Post
+2,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,5.763,Post
+2,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.489,Post
+2,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,5.799,Post
+2,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,5.529,Post
+2,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,5.527,Post
+2,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,6.201,Post
+2,2023-10-17,Guard,Concentric Impulse (Abs) / BM [N s] ,5.523,Post
+2,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,5.177,Post
+2,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,5.381,Post
+3,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,4.958,Post
+3,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,4.902,Post
+3,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,4.934,Post
+3,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,5.087,Post
+3,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,4.922,Post
+3,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,5.005,Post
+3,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,4.878,Post
+4,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.141,Post
+4,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,5.102,Post
+4,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,5.34,Post
+4,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.208,Post
+4,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,5.395,Post
+4,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,5.218,Post
+4,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,5.312,Post
+4,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,5.28,Post
+4,2023-10-17,Guard,Concentric Impulse (Abs) / BM [N s] ,5.16,Post
+4,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,5.137,Post
+4,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,5.131,Post
+5,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.559,Post
+5,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,5.472,Post
+5,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,5.557,Post
+5,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.519,Post
+5,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,5.054,Post
+5,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,5.62,Post
+5,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,5.957,Post
+5,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,5.829,Post
+6,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.725,Post
+6,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,5.72,Post
+6,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,5.737,Post
+6,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.805,Post
+6,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,5.828,Post
+6,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,6.024,Post
+6,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,5.276,Post
+6,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,5.485,Post
+6,2023-10-25,Guard,Concentric Impulse (Abs) / BM [N s] ,5.639,Post
+7,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.952,Post
+7,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.799,Post
+7,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,5.977,Post
+7,2023-10-11,Guard,Concentric Impulse (Abs) / BM [N s] ,6.188,Post
+7,2023-10-18,Guard,Concentric Impulse (Abs) / BM [N s] ,5.765,Post
+7,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,5.822,Post
+8,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,5.104,Post
+8,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,5.517,Post
+9,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,5.263,Post
+9,2023-09-27,Forward,Concentric Impulse (Abs) / BM [N s] ,5.611,Post
+9,2023-10-03,Forward,Concentric Impulse (Abs) / BM [N s] ,5.211,Post
+9,2023-10-04,Forward,Concentric Impulse (Abs) / BM [N s] ,4.918,Post
+9,2023-10-17,Forward,Concentric Impulse (Abs) / BM [N s] ,5.542,Post
+9,2023-10-18,Forward,Concentric Impulse (Abs) / BM [N s] ,5.731,Post
+9,2023-10-18,Forward,Concentric Impulse (Abs) / BM [N s] ,5.359,Post
+9,2023-10-25,Forward,Concentric Impulse (Abs) / BM [N s] ,4.816,Post
+10,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,4.969,Post
+10,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,4.862,Post
+10,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,5.174,Post
+10,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,5.257,Post
+10,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,5.007,Post
+10,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,4.949,Post
+10,2023-10-17,Guard,Concentric Impulse (Abs) / BM [N s] ,4.847,Post
+10,2023-10-18,Guard,Concentric Impulse (Abs) / BM [N s] ,4.82,Post
+11,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,5.37,Post
+11,2023-09-20,Forward,Concentric Impulse (Abs) / BM [N s] ,5.09,Post
+11,2023-09-27,Forward,Concentric Impulse (Abs) / BM [N s] ,5.505,Post
+11,2023-10-03,Forward,Concentric Impulse (Abs) / BM [N s] ,5.857,Post
+11,2023-10-04,Forward,Concentric Impulse (Abs) / BM [N s] ,5.737,Post
+11,2023-10-24,Forward,Concentric Impulse (Abs) / BM [N s] ,5.654,Post
+11,2023-10-25,Forward,Concentric Impulse (Abs) / BM [N s] ,5.697,Post
+12,2023-09-19,Guard,Concentric Impulse (Abs) / BM [N s] ,4.777,Post
+12,2023-09-20,Guard,Concentric Impulse (Abs) / BM [N s] ,4.653,Post
+12,2023-09-26,Guard,Concentric Impulse (Abs) / BM [N s] ,4.775,Post
+12,2023-09-27,Guard,Concentric Impulse (Abs) / BM [N s] ,4.783,Post
+12,2023-10-03,Guard,Concentric Impulse (Abs) / BM [N s] ,4.753,Post
+12,2023-10-04,Guard,Concentric Impulse (Abs) / BM [N s] ,4.666,Post
+12,2023-10-10,Guard,Concentric Impulse (Abs) / BM [N s] ,4.661,Post
+12,2023-10-17,Guard,Concentric Impulse (Abs) / BM [N s] ,4.794,Post
+12,2023-10-18,Guard,Concentric Impulse (Abs) / BM [N s] ,4.941,Post
+12,2023-10-24,Guard,Concentric Impulse (Abs) / BM [N s] ,4.912,Post
+13,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,5.466,Post
+13,2023-10-04,Forward,Concentric Impulse (Abs) / BM [N s] ,5.28,Post
+13,2023-10-10,Forward,Concentric Impulse (Abs) / BM [N s] ,5.247,Post
+13,2023-10-11,Forward,Concentric Impulse (Abs) / BM [N s] ,5.091,Post
+13,2023-10-17,Forward,Concentric Impulse (Abs) / BM [N s] ,5.216,Post
+13,2023-10-24,Forward,Concentric Impulse (Abs) / BM [N s] ,5.306,Post
+14,2023-09-19,Forward,Concentric Impulse (Abs) / BM [N s] ,5.864,Post
+14,2023-09-20,Forward,Concentric Impulse (Abs) / BM [N s] ,5.609,Post
+14,2023-09-26,Forward,Concentric Impulse (Abs) / BM [N s] ,5.816,Post
+14,2023-09-27,Forward,Concentric Impulse (Abs) / BM [N s] ,5.458,Post
+14,2023-10-03,Forward,Concentric Impulse (Abs) / BM [N s] ,5.954,Post
+14,2023-10-04,Forward,Concentric Impulse (Abs) / BM [N s] ,5.196,Post
+1,2023-09-19,Forward,Concentric Impulse [N s] ,218.5,Post
+2,2023-09-19,Guard,Concentric Impulse [N s] ,246.7,Post
+2,2023-09-26,Guard,Concentric Impulse [N s] ,246.1,Post
+2,2023-09-27,Guard,Concentric Impulse [N s] ,243.6,Post
+2,2023-10-03,Guard,Concentric Impulse [N s] ,241.2,Post
+2,2023-10-04,Guard,Concentric Impulse [N s] ,242.5,Post
+2,2023-10-10,Guard,Concentric Impulse [N s] ,239.4,Post
+2,2023-10-11,Guard,Concentric Impulse [N s] ,245.0,Post
+2,2023-10-17,Guard,Concentric Impulse [N s] ,243.4,Post
+2,2023-10-24,Guard,Concentric Impulse [N s] ,215.8,Post
+2,2023-10-25,Guard,Concentric Impulse [N s] ,236.6,Post
+3,2023-09-19,Guard,Concentric Impulse [N s] ,203.7,Post
+3,2023-09-20,Guard,Concentric Impulse [N s] ,193.0,Post
+3,2023-10-03,Guard,Concentric Impulse [N s] ,201.8,Post
+3,2023-10-04,Guard,Concentric Impulse [N s] ,211.3,Post
+3,2023-10-11,Guard,Concentric Impulse [N s] ,212.6,Post
+3,2023-10-24,Guard,Concentric Impulse [N s] ,218.4,Post
+3,2023-10-25,Guard,Concentric Impulse [N s] ,220.5,Post
+4,2023-09-19,Guard,Concentric Impulse [N s] ,187.3,Post
+4,2023-09-20,Guard,Concentric Impulse [N s] ,184.1,Post
+4,2023-09-26,Guard,Concentric Impulse [N s] ,190.0,Post
+4,2023-09-27,Guard,Concentric Impulse [N s] ,193.1,Post
+4,2023-10-03,Guard,Concentric Impulse [N s] ,185.8,Post
+4,2023-10-04,Guard,Concentric Impulse [N s] ,175.5,Post
+4,2023-10-10,Guard,Concentric Impulse [N s] ,191.5,Post
+4,2023-10-11,Guard,Concentric Impulse [N s] ,192.6,Post
+4,2023-10-17,Guard,Concentric Impulse [N s] ,172.8,Post
+4,2023-10-24,Guard,Concentric Impulse [N s] ,187.5,Post
+4,2023-10-25,Guard,Concentric Impulse [N s] ,177.2,Post
+5,2023-09-19,Guard,Concentric Impulse [N s] ,208.6,Post
+5,2023-09-20,Guard,Concentric Impulse [N s] ,214.6,Post
+5,2023-09-26,Guard,Concentric Impulse [N s] ,202.8,Post
+5,2023-09-27,Guard,Concentric Impulse [N s] ,198.1,Post
+5,2023-10-04,Guard,Concentric Impulse [N s] ,199.2,Post
+5,2023-10-10,Guard,Concentric Impulse [N s] ,220.0,Post
+5,2023-10-24,Guard,Concentric Impulse [N s] ,200.4,Post
+5,2023-10-25,Guard,Concentric Impulse [N s] ,198.3,Post
+6,2023-09-19,Guard,Concentric Impulse [N s] ,236.9,Post
+6,2023-09-20,Guard,Concentric Impulse [N s] ,231.4,Post
+6,2023-09-26,Guard,Concentric Impulse [N s] ,235.5,Post
+6,2023-09-27,Guard,Concentric Impulse [N s] ,245.6,Post
+6,2023-10-03,Guard,Concentric Impulse [N s] ,232.0,Post
+6,2023-10-04,Guard,Concentric Impulse [N s] ,234.0,Post
+6,2023-10-10,Guard,Concentric Impulse [N s] ,210.7,Post
+6,2023-10-11,Guard,Concentric Impulse [N s] ,227.4,Post
+6,2023-10-25,Guard,Concentric Impulse [N s] ,231.9,Post
+7,2023-09-19,Guard,Concentric Impulse [N s] ,189.8,Post
+7,2023-09-27,Guard,Concentric Impulse [N s] ,193.9,Post
+7,2023-10-04,Guard,Concentric Impulse [N s] ,196.2,Post
+7,2023-10-11,Guard,Concentric Impulse [N s] ,203.2,Post
+7,2023-10-18,Guard,Concentric Impulse [N s] ,199.7,Post
+7,2023-10-24,Guard,Concentric Impulse [N s] ,204.8,Post
+8,2023-09-19,Guard,Concentric Impulse [N s] ,201.3,Post
+8,2023-09-20,Guard,Concentric Impulse [N s] ,172.1,Post
+9,2023-09-19,Forward,Concentric Impulse [N s] ,204.0,Post
+9,2023-09-27,Forward,Concentric Impulse [N s] ,221.3,Post
+9,2023-10-03,Forward,Concentric Impulse [N s] ,209.0,Post
+9,2023-10-04,Forward,Concentric Impulse [N s] ,204.4,Post
+9,2023-10-17,Forward,Concentric Impulse [N s] ,210.5,Post
+9,2023-10-18,Forward,Concentric Impulse [N s] ,233.8,Post
+9,2023-10-18,Forward,Concentric Impulse [N s] ,219.1,Post
+9,2023-10-25,Forward,Concentric Impulse [N s] ,201.9,Post
+10,2023-09-19,Guard,Concentric Impulse [N s] ,188.9,Post
+10,2023-09-20,Guard,Concentric Impulse [N s] ,188.0,Post
+10,2023-09-26,Guard,Concentric Impulse [N s] ,210.6,Post
+10,2023-09-27,Guard,Concentric Impulse [N s] ,209.7,Post
+10,2023-10-03,Guard,Concentric Impulse [N s] ,198.1,Post
+10,2023-10-04,Guard,Concentric Impulse [N s] ,197.9,Post
+10,2023-10-17,Guard,Concentric Impulse [N s] ,186.5,Post
+10,2023-10-18,Guard,Concentric Impulse [N s] ,188.0,Post
+11,2023-09-19,Forward,Concentric Impulse [N s] ,261.7,Post
+11,2023-09-20,Forward,Concentric Impulse [N s] ,235.6,Post
+11,2023-09-27,Forward,Concentric Impulse [N s] ,268.4,Post
+11,2023-10-03,Forward,Concentric Impulse [N s] ,276.7,Post
+11,2023-10-04,Forward,Concentric Impulse [N s] ,257.0,Post
+11,2023-10-24,Forward,Concentric Impulse [N s] ,268.8,Post
+11,2023-10-25,Forward,Concentric Impulse [N s] ,273.6,Post
+12,2023-09-19,Guard,Concentric Impulse [N s] ,205.0,Post
+12,2023-09-20,Guard,Concentric Impulse [N s] ,196.7,Post
+12,2023-09-26,Guard,Concentric Impulse [N s] ,203.4,Post
+12,2023-09-27,Guard,Concentric Impulse [N s] ,212.7,Post
+12,2023-10-03,Guard,Concentric Impulse [N s] ,196.9,Post
+12,2023-10-04,Guard,Concentric Impulse [N s] ,202.9,Post
+12,2023-10-10,Guard,Concentric Impulse [N s] ,195.5,Post
+12,2023-10-17,Guard,Concentric Impulse [N s] ,196.6,Post
+12,2023-10-18,Guard,Concentric Impulse [N s] ,202.5,Post
+12,2023-10-24,Guard,Concentric Impulse [N s] ,209.2,Post
+13,2023-09-19,Forward,Concentric Impulse [N s] ,265.9,Post
+13,2023-10-04,Forward,Concentric Impulse [N s] ,264.2,Post
+13,2023-10-10,Forward,Concentric Impulse [N s] ,261.0,Post
+13,2023-10-11,Forward,Concentric Impulse [N s] ,250.7,Post
+13,2023-10-17,Forward,Concentric Impulse [N s] ,257.7,Post
+13,2023-10-24,Forward,Concentric Impulse [N s] ,283.8,Post
+14,2023-09-19,Forward,Concentric Impulse [N s] ,264.8,Post
+14,2023-09-20,Forward,Concentric Impulse [N s] ,257.8,Post
+14,2023-09-26,Forward,Concentric Impulse [N s] ,267.3,Post
+14,2023-09-27,Forward,Concentric Impulse [N s] ,253.3,Post
+14,2023-10-03,Forward,Concentric Impulse [N s] ,270.0,Post
+14,2023-10-04,Forward,Concentric Impulse [N s] ,234.6,Post
+1,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,64.4,Post
+2,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,21.5,Post
+2,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,42.8,Post
+2,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,53.3,Post
+2,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,45.7,Post
+2,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,34.7,Post
+2,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,38.4,Post
+2,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,43.3,Post
+2,2023-10-17,Guard,Concentric RFD / BM [N/s/kg] ,42.5,Post
+2,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,62.3,Post
+2,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,57.4,Post
+3,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,60.9,Post
+3,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,68.6,Post
+3,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,75.3,Post
+3,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,48.7,Post
+3,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,63.6,Post
+3,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,47.6,Post
+3,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,43.2,Post
+4,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,40.8,Post
+4,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,17.3,Post
+4,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,31.4,Post
+4,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,22.0,Post
+4,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,23.7,Post
+4,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,30.8,Post
+4,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,18.7,Post
+4,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,2.8,Post
+4,2023-10-17,Guard,Concentric RFD / BM [N/s/kg] ,32.5,Post
+4,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,22.7,Post
+4,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,26.2,Post
+5,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,36.7,Post
+5,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,25.0,Post
+5,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,41.8,Post
+5,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,30.9,Post
+5,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,52.2,Post
+5,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,19.4,Post
+5,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,35.4,Post
+5,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,32.2,Post
+6,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,7.9,Post
+6,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,15.6,Post
+6,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,12.2,Post
+6,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,8.5,Post
+6,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,6.2,Post
+6,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,1.5,Post
+6,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,42.8,Post
+6,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,30.8,Post
+6,2023-10-25,Guard,Concentric RFD / BM [N/s/kg] ,13.9,Post
+7,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,11.1,Post
+7,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,9.5,Post
+7,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,13.0,Post
+7,2023-10-11,Guard,Concentric RFD / BM [N/s/kg] ,27.8,Post
+7,2023-10-18,Guard,Concentric RFD / BM [N/s/kg] ,17.0,Post
+7,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,9.5,Post
+8,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,48.5,Post
+8,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,33.7,Post
+9,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,8.2,Post
+9,2023-09-27,Forward,Concentric RFD / BM [N/s/kg] ,0.0,Post
+9,2023-10-03,Forward,Concentric RFD / BM [N/s/kg] ,9.9,Post
+9,2023-10-04,Forward,Concentric RFD / BM [N/s/kg] ,23.2,Post
+9,2023-10-17,Forward,Concentric RFD / BM [N/s/kg] ,7.1,Post
+9,2023-10-18,Forward,Concentric RFD / BM [N/s/kg] ,15.9,Post
+9,2023-10-18,Forward,Concentric RFD / BM [N/s/kg] ,15.8,Post
+9,2023-10-25,Forward,Concentric RFD / BM [N/s/kg] ,34.5,Post
+10,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,56.8,Post
+10,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,56.7,Post
+10,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,37.1,Post
+10,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,39.2,Post
+10,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,57.3,Post
+10,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,65.4,Post
+10,2023-10-17,Guard,Concentric RFD / BM [N/s/kg] ,78.1,Post
+10,2023-10-18,Guard,Concentric RFD / BM [N/s/kg] ,60.9,Post
+11,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,54.2,Post
+11,2023-09-20,Forward,Concentric RFD / BM [N/s/kg] ,65.2,Post
+11,2023-09-27,Forward,Concentric RFD / BM [N/s/kg] ,40.1,Post
+11,2023-10-03,Forward,Concentric RFD / BM [N/s/kg] ,32.1,Post
+11,2023-10-04,Forward,Concentric RFD / BM [N/s/kg] ,34.5,Post
+11,2023-10-24,Forward,Concentric RFD / BM [N/s/kg] ,43.5,Post
+11,2023-10-25,Forward,Concentric RFD / BM [N/s/kg] ,28.7,Post
+12,2023-09-19,Guard,Concentric RFD / BM [N/s/kg] ,54.3,Post
+12,2023-09-20,Guard,Concentric RFD / BM [N/s/kg] ,45.0,Post
+12,2023-09-26,Guard,Concentric RFD / BM [N/s/kg] ,38.9,Post
+12,2023-09-27,Guard,Concentric RFD / BM [N/s/kg] ,53.2,Post
+12,2023-10-03,Guard,Concentric RFD / BM [N/s/kg] ,47.0,Post
+12,2023-10-04,Guard,Concentric RFD / BM [N/s/kg] ,50.6,Post
+12,2023-10-10,Guard,Concentric RFD / BM [N/s/kg] ,56.9,Post
+12,2023-10-17,Guard,Concentric RFD / BM [N/s/kg] ,61.4,Post
+12,2023-10-18,Guard,Concentric RFD / BM [N/s/kg] ,46.8,Post
+12,2023-10-24,Guard,Concentric RFD / BM [N/s/kg] ,64.3,Post
+13,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,8.8,Post
+13,2023-10-04,Forward,Concentric RFD / BM [N/s/kg] ,0.0,Post
+13,2023-10-10,Forward,Concentric RFD / BM [N/s/kg] ,4.1,Post
+13,2023-10-11,Forward,Concentric RFD / BM [N/s/kg] ,13.2,Post
+13,2023-10-17,Forward,Concentric RFD / BM [N/s/kg] ,16.7,Post
+13,2023-10-24,Forward,Concentric RFD / BM [N/s/kg] ,9.1,Post
+14,2023-09-19,Forward,Concentric RFD / BM [N/s/kg] ,13.2,Post
+14,2023-09-20,Forward,Concentric RFD / BM [N/s/kg] ,7.4,Post
+14,2023-09-26,Forward,Concentric RFD / BM [N/s/kg] ,1.6,Post
+14,2023-09-27,Forward,Concentric RFD / BM [N/s/kg] ,19.0,Post
+14,2023-10-03,Forward,Concentric RFD / BM [N/s/kg] ,0.0,Post
+14,2023-10-04,Forward,Concentric RFD / BM [N/s/kg] ,28.5,Post
+1,2023-09-19,Forward,SRPE,840.0,Post
+2,2023-09-19,Guard,SRPE,,Post
+2,2023-09-26,Guard,SRPE,720.0,Post
+2,2023-09-27,Guard,SRPE,450.0,Post
+2,2023-10-03,Guard,SRPE,600.0,Post
+2,2023-10-04,Guard,SRPE,450.0,Post
+2,2023-10-10,Guard,SRPE,450.0,Post
+2,2023-10-11,Guard,SRPE,720.0,Post
+2,2023-10-17,Guard,SRPE,420.0,Post
+2,2023-10-24,Guard,SRPE,240.0,Post
+2,2023-10-25,Guard,SRPE,840.0,Post
+3,2023-09-19,Guard,SRPE,735.0,Post
+3,2023-09-20,Guard,SRPE,840.0,Post
+3,2023-10-03,Guard,SRPE,840.0,Post
+3,2023-10-04,Guard,SRPE,525.0,Post
+3,2023-10-11,Guard,SRPE,960.0,Post
+3,2023-10-24,Guard,SRPE,840.0,Post
+3,2023-10-25,Guard,SRPE,1080.0,Post
+4,2023-09-19,Guard,SRPE,735.0,Post
+4,2023-09-20,Guard,SRPE,960.0,Post
+4,2023-09-26,Guard,SRPE,,Post
+4,2023-09-27,Guard,SRPE,525.0,Post
+4,2023-10-03,Guard,SRPE,720.0,Post
+4,2023-10-04,Guard,SRPE,450.0,Post
+4,2023-10-10,Guard,SRPE,,Post
+4,2023-10-11,Guard,SRPE,840.0,Post
+4,2023-10-17,Guard,SRPE,720.0,Post
+4,2023-10-24,Guard,SRPE,600.0,Post
+4,2023-10-25,Guard,SRPE,720.0,Post
+5,2023-09-19,Guard,SRPE,525.0,Post
+5,2023-09-20,Guard,SRPE,600.0,Post
+5,2023-09-26,Guard,SRPE,1200.0,Post
+5,2023-09-27,Guard,SRPE,525.0,Post
+5,2023-10-04,Guard,SRPE,300.0,Post
+5,2023-10-10,Guard,SRPE,450.0,Post
+5,2023-10-24,Guard,SRPE,720.0,Post
+5,2023-10-25,Guard,SRPE,720.0,Post
+6,2023-09-19,Guard,SRPE,525.0,Post
+6,2023-09-20,Guard,SRPE,720.0,Post
+6,2023-09-26,Guard,SRPE,480.0,Post
+6,2023-09-27,Guard,SRPE,375.0,Post
+6,2023-10-03,Guard,SRPE,840.0,Post
+6,2023-10-04,Guard,SRPE,300.0,Post
+6,2023-10-10,Guard,SRPE,450.0,Post
+6,2023-10-11,Guard,SRPE,720.0,Post
+6,2023-10-25,Guard,SRPE,720.0,Post
+7,2023-09-19,Guard,SRPE,735.0,Post
+7,2023-09-27,Guard,SRPE,450.0,Post
+7,2023-10-04,Guard,SRPE,450.0,Post
+7,2023-10-11,Guard,SRPE,840.0,Post
+7,2023-10-18,Guard,SRPE,630.0,Post
+7,2023-10-24,Guard,SRPE,840.0,Post
+8,2023-09-19,Guard,SRPE,525.0,Post
+8,2023-09-20,Guard,SRPE,720.0,Post
+9,2023-09-19,Forward,SRPE,315.0,Post
+9,2023-09-27,Forward,SRPE,225.0,Post
+9,2023-10-03,Forward,SRPE,240.0,Post
+9,2023-10-04,Forward,SRPE,150.0,Post
+9,2023-10-17,Forward,SRPE,360.0,Post
+9,2023-10-18,Forward,SRPE,180.0,Post
+9,2023-10-18,Forward,SRPE,180.0,Post
+9,2023-10-25,Forward,SRPE,360.0,Post
+10,2023-09-19,Guard,SRPE,420.0,Post
+10,2023-09-20,Guard,SRPE,600.0,Post
+10,2023-09-26,Guard,SRPE,600.0,Post
+10,2023-09-27,Guard,SRPE,450.0,Post
+10,2023-10-03,Guard,SRPE,840.0,Post
+10,2023-10-04,Guard,SRPE,300.0,Post
+10,2023-10-17,Guard,SRPE,720.0,Post
+10,2023-10-18,Guard,SRPE,450.0,Post
+11,2023-09-19,Forward,SRPE,525.0,Post
+11,2023-09-20,Forward,SRPE,720.0,Post
+11,2023-09-27,Forward,SRPE,525.0,Post
+11,2023-10-03,Forward,SRPE,720.0,Post
+11,2023-10-04,Forward,SRPE,450.0,Post
+11,2023-10-24,Forward,SRPE,720.0,Post
+11,2023-10-25,Forward,SRPE,720.0,Post
+12,2023-09-19,Guard,SRPE,315.0,Post
+12,2023-09-20,Guard,SRPE,480.0,Post
+12,2023-09-26,Guard,SRPE,360.0,Post
+12,2023-09-27,Guard,SRPE,300.0,Post
+12,2023-10-03,Guard,SRPE,480.0,Post
+12,2023-10-04,Guard,SRPE,150.0,Post
+12,2023-10-10,Guard,SRPE,360.0,Post
+12,2023-10-17,Guard,SRPE,540.0,Post
+12,2023-10-18,Guard,SRPE,450.0,Post
+12,2023-10-24,Guard,SRPE,480.0,Post
+13,2023-09-19,Forward,SRPE,525.0,Post
+13,2023-10-04,Forward,SRPE,375.0,Post
+13,2023-10-10,Forward,SRPE,450.0,Post
+13,2023-10-11,Forward,SRPE,600.0,Post
+13,2023-10-17,Forward,SRPE,720.0,Post
+13,2023-10-24,Forward,SRPE,720.0,Post
+14,2023-09-19,Forward,SRPE,315.0,Post
+14,2023-09-20,Forward,SRPE,600.0,Post
+14,2023-09-26,Forward,SRPE,480.0,Post
+14,2023-09-27,Forward,SRPE,300.0,Post
+14,2023-10-03,Forward,SRPE,360.0,Post
+14,2023-10-04,Forward,SRPE,225.0,Post
